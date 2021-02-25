@@ -25,3 +25,6 @@
 - **Milestone 1** (due March 15) - Reading/Thinking & Gathering the data 
 - **Milestone 2** (due April 13) - Creating/Evaluating the model
 - **Milestone 3** (due May 10) - Iterate & Improve 
+
+### 📚 Review of the Existing Literature
+To be completed
