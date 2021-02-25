@@ -29,7 +29,7 @@
 ### 📚 Review of the Existing Literature
 To be completed
 
-### 🤔 How do we intend to solve the problem?
+### 💭 How do we intend to solve the problem?
 To be completed
 
 ### 💾 Datasets
