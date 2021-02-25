@@ -26,11 +26,13 @@
 - **Milestone 2** (due April 13) - Creating/Evaluating the model
 - **Milestone 3** (due May 10) - Iterate & Improve 
 
-### 📚 Review of the Existing Literature
+### Milestone 1 - Reading/Thinking & Gathering the data 
+
+#### 📚 Review of the Existing Literature
 To be completed
 
-### 💭 How do we intend to solve the problem?
+#### 💭 How do we intend to solve the problem?
 To be completed
 
-### 💾 Datasets
+#### 💾 Datasets
 To be completed
