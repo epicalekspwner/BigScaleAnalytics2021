@@ -38,21 +38,20 @@ To be completed
 To be completed
 
 📗 **Books**
-- Daniel Pennac, *Chagrin d'école*
+- Aimé Césaire, *Cahier d'un retour au pays natal*
 - Antoine de Saint-Exupéry, *Le petit prince*
-- Raymond Queneau, *Exercices de style*
-- Jérôme Lindon, *Jean Echenoz*
-- Guy de Maupassant, *Bel-Ami*
-- Jean de La Fontaine, *Fables*
-- Jules Verne, *Vingt mille lieues sous les mers*
-- Éric-Emmanuel Schmitt, *Monsieur Ibrahim et les fleurs du Coran*
-- Fatou Diome, *Le ventre de l'Atlantique*
+- Daniel Pennac, *Chagrin d'école*
 - Djurna Barnes, *Le Bois de la nuit*
 - Émile Zola, *Au bonheur des dames*
-- Marcel Proust, *À la recherche du temps perdu*
-- Gustave Flaubert, *Madame Bovary*
-- Marcel Proust, *Du côté de chez Swann*
-- Aimé Césaire, *Cahier d'un retour au pays natal*
 - Émile Zola, *L’Assommoir*
+- Éric-Emmanuel Schmitt, *Monsieur Ibrahim et les fleurs du Coran*
+- Fatou Diome, *Le ventre de l'Atlantique*
+- Gustave Flaubert, *Madame Bovary*
+- Guy de Maupassant, *Bel-Ami*
+- Jean de La Fontaine, *Fables*
+- Jérôme Lindon, *Jean Echenoz*
+- Jules Verne, *Vingt mille lieues sous les mers*
 - Marcel Proust, *À la recherche du temps perdu*
+- Marcel Proust, *Du côté de chez Swann*
+- Raymond Queneau, *Exercices de style*
 - Simone de Beauvoir, *Le Deuxième Sexe*
