@@ -1,4 +1,4 @@
-# PROJECT_NAME_PLACEHOLDER
+
  
 ![banner_main](https://raw.githubusercontent.com/epicalekspwner/BigScaleAnalytics2021/main/Resources/groupAmazon_banner_main_v2.svg)
 
