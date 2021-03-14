@@ -42,12 +42,14 @@ To be completed
 - Antoine de Saint-Exupéry, *Le petit prince*
 - Daniel Pennac, *Chagrin d'école*
 - Djurna Barnes, *Le Bois de la nuit*
+- Edmond Rostand, *Cyrano de Bergerac*
 - Émile Zola, *Au bonheur des dames*
 - Émile Zola, *L’Assommoir*
 - Éric-Emmanuel Schmitt, *Monsieur Ibrahim et les fleurs du Coran*
 - Fatou Diome, *Le ventre de l'Atlantique*
 - Gustave Flaubert, *Madame Bovary*
 - Guy de Maupassant, *Bel-Ami*
+- Guy de Maupassant, *Le Horla*
 - Jean de La Fontaine, *Fables*
 - Jérôme Lindon, *Jean Echenoz*
 - Jules Verne, *Vingt mille lieues sous les mers*
@@ -55,6 +57,7 @@ To be completed
 - Marcel Proust, *Du côté de chez Swann*
 - Raymond Queneau, *Exercices de style*
 - Simone de Beauvoir, *Le Deuxième Sexe*
+- Voltaire, *Candide*
 
 🔬 **Studies**
 
@@ -81,7 +84,7 @@ To be completed
   https://www.letemps.ch/suisse/plus-dun-tiers-appartements-suisses-occupes-personnes-seules
 - Bazin, Xavier (2021, February 25th). Vaccin en Israël : des chiffres troublants. *FranceSoir*.  
   https://www.francesoir.fr/opinions-tribunes/vaccin-en-israel-des-chiffres-troublants
-- Colleu, Yannick (2021, February 24th). COVID 19 : les données de Santé Publique France sont elles fiables ?. *FranceSoir*.  
+- Colleu, Yannick (2021, February 24th). COVID 19 : les données de Santé Publique France sont-elles fiables ?. *FranceSoir*.  
   https://www.francesoir.fr/opinions-tribunes/les-donnees-de-sante-publique-france-sont-elles-fiables
 - Etienne, Richard (2021, February 25th). Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin. *Le Temps*.  
   https://www.letemps.ch/economie/geneve-accorde-un-pret-historique-200-millions-laeroport-cointrin
