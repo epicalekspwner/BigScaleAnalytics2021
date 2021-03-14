@@ -55,3 +55,8 @@ To be completed
 - Marcel Proust, *Du côté de chez Swann*
 - Raymond Queneau, *Exercices de style*
 - Simone de Beauvoir, *Le Deuxième Sexe*
+
+🔭 **Studies**
+- OECD (2019, November). *Études économiques de l’OCDE : sythèse sur la Suisse*. http://www.oecd.org/fr/economie/etudes/Suisse-2019-OCDE-etudes-economique-synthese.pdf
+- 
+-  
