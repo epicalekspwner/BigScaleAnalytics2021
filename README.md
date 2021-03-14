@@ -73,8 +73,6 @@ To be completed
 - Office fédéral de la statistique (2020, November). *Transport routier, ferroviaire et aérien : Coûts et financement des transports 2017*.  
   https://www.bfs.admin.ch/asset/fr/812-1700
 
-📰 **Online News Articles**
-
 - Etienne, Richard (2021, February 25th). Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin. *Le Temps*.  
   https://www.letemps.ch/economie/geneve-accorde-un-pret-historique-200-millions-laeroport-cointrin
 - ATS (2021, February 25th). Plus d'un tiers des appartements suisses sont occupés par des personnes seules. *Le Temps*.  
