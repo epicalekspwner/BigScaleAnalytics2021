@@ -57,13 +57,30 @@ To be completed
 - Simone de Beauvoir, *Le Deuxième Sexe*
 
 🔭 **Studies**
+
 - OECD (2019, November). *Études économiques de l’OCDE : Sythèse sur la Suisse*.  
   http://www.oecd.org/fr/economie/etudes/Suisse-2019-OCDE-etudes-economique-synthese.pdf
+- Office fédéral de la statistique (2020, February). *Endettement : Arriérés de paiement en 2019*.  
+  https://www.bfs.admin.ch/bfs/fr/home/statistiques/situation-economique-sociale-population/revenus-consommation-et-fortune/endettement.html
 - Office fédéral de la statistique (2019). *Énergie : Aspects économiques*.  
   https://www.bfs.admin.ch/bfs/fr/home/statistiques/energie/aspects-economiques.html
 - Office fédéral de la statistique (2020, December). *Enquête suisse sur la santé (ESS) 2017 : Santé et genre*.  
   https://www.bfs.admin.ch/asset/fr/213-1719
+- Office fédéral de la statistique (2020, November). *Le système d'indicateurs «Mesure du bien-être»*.  
+  https://www.bfs.admin.ch/asset/fr/1877-2000
+- Office fédéral de la statistique (2020, November). *Panorama de la société suisse 2020*.  
+  https://www.bfs.admin.ch/asset/fr/2016-2000
 - Office fédéral de la statistique (2020, November). *Transport routier, ferroviaire et aérien : Coûts et financement des transports 2017*.  
   https://www.bfs.admin.ch/asset/fr/812-1700
-- Office fédéral de la statistique (2020, February). *Endettement : Arriérés de paiement en 2019*.  
-  https://www.bfs.admin.ch/bfs/fr/home/statistiques/situation-economique-sociale-population/revenus-consommation-et-fortune/endettement.html
+
+
+
+
+
+
+
+
+
+
+
+
