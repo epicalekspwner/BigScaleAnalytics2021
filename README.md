@@ -88,7 +88,6 @@ To be completed
 - Genecand, Marie-Pierre (2021, February 8th). La médiation de voisinage, comme si vous y étiez. *Le Temps*.
   https://www.letemps.ch/societe/mediation-voisinage-y-etiez
 
-
 - Bazin, Xavier (2021, February 25th). Vaccin en Israël : des chiffres troublants !. *FranceSoir*.
   https://www.francesoir.fr/opinions-tribunes/vaccin-en-israel-des-chiffres-troublants
 - Colleu, Yannick (2021, February 24th). COVID 19 : Les données de Santé Publique France sont elles fiables ?. *FranceSoir*.
