@@ -89,13 +89,13 @@ To be completed
   https://www.letemps.ch/societe/mediation-voisinage-y-etiez  
 
 - Bazin, Xavier (2021, February 25th). Vaccin en Israël : des chiffres troublants !. *FranceSoir*.  
-  https://www.francesoir.fr/opinions-tribunes/vaccin-en-israel-des-chiffres-troublants  
+https://www.francesoir.fr/opinions-tribunes/vaccin-en-israel-des-chiffres-troublants  
 - Colleu, Yannick (2021, February 24th). COVID 19 : Les données de Santé Publique France sont elles fiables ?. *FranceSoir*.
-  https://www.francesoir.fr/opinions-tribunes/les-donnees-de-sante-publique-france-sont-elles-fiables  
+https://www.francesoir.fr/opinions-tribunes/les-donnees-de-sante-publique-france-sont-elles-fiables  
 - FranceSoir, AFP (2021, February 17th). Pays-Bas : le couvre-feu, objet d'un bras de fer judiciaire. *FranceSoir*.  
-  https://www.francesoir.fr/politique-monde/covid19-au-pays-bas-la-levee-du-couvre-feu-suspendue-une-decision-de-justice  
+https://www.francesoir.fr/politique-monde/covid19-au-pays-bas-la-levee-du-couvre-feu-suspendue-une-decision-de-justice  
 - FranceSoir (2021, February 21st). Les néonicotinoïdes : une menace pour les mammifères. *FranceSoir*.  
-  https://www.francesoir.fr/societe-environnement/les-neonicotinoides-une-menace-pour-les-mammiferes
+https://www.francesoir.fr/societe-environnement/les-neonicotinoides-une-menace-pour-les-mammiferes
 
 📰 **Online News Articles**
 
