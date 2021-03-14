@@ -78,7 +78,7 @@ To be completed
 - Etienne, Richard (2021, February 25th). Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin. *Le Temps*.  
   https://www.letemps.ch/economie/geneve-accorde-un-pret-historique-200-millions-laeroport-cointrin  
 - ATS (2021, February 25th). Plus d'un tiers des appartements suisses sont occupés par des personnes seules. *Le Temps*.  
-  https://www.letemps.ch/suisse/plus-dun-tiers-appartements-suisses-occupes-personnes-seules  </br>
+  https://www.letemps.ch/suisse/plus-dun-tiers-appartements-suisses-occupes-personnes-seules  
 - AFP (2021, February 23th). Spotify se lance dans plus de 80 nouveaux pays. *Le Temps*.  
   https://www.letemps.ch/economie/spotify-se-lance-plus-80-nouveaux-pays  
 - Le Temps, ATS (2021, February 21th). Le printemps précoce s'est invité en ce week-end de février. *Le Temps*.  
@@ -91,9 +91,7 @@ To be completed
 - Bazin, Xavier (2021, February 25th). Vaccin en Israël : des chiffres troublants !. *FranceSoir*.  
   https://www.francesoir.fr/opinions-tribunes/vaccin-en-israel-des-chiffres-troublants  
 - Colleu, Yannick (2021, February 24th). COVID 19 : Les données de Santé Publique France sont elles fiables ?. *FranceSoir*.
-  https://www.francesoir.fr/opinions-tribunes/les-donnees-de-sante-publique-france-sont-elles-fiables  </br>
-- FranceSoir (2021, February 20th). Le Conseil scientifique retourne sa veste partiellement sur le confinement : L'heure des comptes approche-t-elle ?. *FranceSoir*.  
-  https://www.francesoir.fr/societe-sante/le-conseil-scientifique-retourne-sa-veste-partiellement-sur-le-confinement-lheure-des  
+  https://www.francesoir.fr/opinions-tribunes/les-donnees-de-sante-publique-france-sont-elles-fiables  
 - FranceSoir, AFP (2021, February 17th). Pays-Bas : le couvre-feu, objet d'un bras de fer judiciaire. *FranceSoir*.  
   https://www.francesoir.fr/politique-monde/covid19-au-pays-bas-la-levee-du-couvre-feu-suspendue-une-decision-de-justice  
 - FranceSoir (2021, February 21st). Les néonicotinoïdes : une menace pour les mammifères. *FranceSoir*.  
