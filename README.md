@@ -75,11 +75,16 @@ To be completed
 
 📰 **Online News Articles**
 
-- Etienne, Richard (2021, February 25th). Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin. *Le Temps*.  
-  https://www.letemps.ch/economie/geneve-accorde-un-pret-historique-200-millions-laeroport-cointrin
+- AFP (2021, February 23th). Spotify se lance dans plus de 80 nouveaux pays. *Le Temps*.  
+  https://www.letemps.ch/economie/spotify-se-lance-plus-80-nouveaux-pays
 - ATS (2021, February 25th). Plus d'un tiers des appartements suisses sont occupés par des personnes seules. *Le Temps*.  
   https://www.letemps.ch/suisse/plus-dun-tiers-appartements-suisses-occupes-personnes-seules
--
+- Etienne, Richard (2021, February 25th). Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin. *Le Temps*.  
+  https://www.letemps.ch/economie/geneve-accorde-un-pret-historique-200-millions-laeroport-cointrin
+- Favre, Laurent (2021, February 21th). Novak Djokovic est imbattable, la preuve par neuf. *Le Temps*.  
+  https://www.letemps.ch/sport/novak-djokovic-imbattable-preuve-neuf
+- Genecand, Marie-Pierre (2021, February 8th). La médiation de voisinage, comme si vous y étiez. *Le Temps*.  
+  https://www.letemps.ch/societe/mediation-voisinage-y-etiez
 
 
 
