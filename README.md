@@ -1,6 +1,6 @@
 # PROJECT_NAME_PLACEHOLDER
  
-![banner_main](https://raw.githubusercontent.com/epicalekspwner/BigScaleAnalytics2021/main/Resources/groupAmazon_banner_main_v2.svg)
+![banner_main](https://raw.githubusercontent.com/epicalekspwner/BigScaleAnalytics2021/main/Resources/groupAmazon_banner_main.svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/epicalekspwner/BigScaleAnalytics2021/main/Resources/groupAmazon_central_banner.gif" />
@@ -36,3 +36,23 @@ To be completed
 
 ### 💾 Datasets
 To be completed
+
+📗 **Books**
+- Daniel Pennac, *Chagrin d'école*
+- Antoine de Saint-Exupéry, *Le petit prince*
+- Raymond Queneau, *Exercices de style*
+- Jérôme Lindon, *Jean Echenoz*
+- Guy de Maupassant, *Bel-Ami*
+- Jean de La Fontaine, *Fables*
+- Jules Verne, *Vingt mille lieues sous les mers*
+- Éric-Emmanuel Schmitt, *Monsieur Ibrahim et les fleurs du Coran*
+- Fatou Diome, *Le ventre de l'Atlantique*
+- Djurna Barnes, *Le Bois de la nuit*
+- Émile Zola, *Au bonheur des dames*
+- Marcel Proust, *À la recherche du temps perdu*
+- Gustave Flaubert, *Madame Bovary*
+- Marcel Proust, *Du côté de chez Swann*
+- Aimé Césaire, *Cahier d'un retour au pays natal*
+- Émile Zola, *L’Assommoir*
+- Marcel Proust, *À la recherche du temps perdu*
+- Simone de Beauvoir, *Le Deuxième Sexe*
