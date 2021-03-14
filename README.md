@@ -56,7 +56,7 @@ To be completed
 - Raymond Queneau, *Exercices de style*
 - Simone de Beauvoir, *Le Deuxième Sexe*
 
-🔭 **Studies**
+🔬 **Studies**
 
 - OECD (2019, November). *Études économiques de l’OCDE : Sythèse sur la Suisse*.  
   http://www.oecd.org/fr/economie/etudes/Suisse-2019-OCDE-etudes-economique-synthese.pdf
@@ -75,8 +75,10 @@ To be completed
 
 📰 **Online News Articles**
 
--
--
+- Etienne, Richard (2021, February 25th). Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin. *Le Temps*.  
+  https://www.letemps.ch/economie/geneve-accorde-un-pret-historique-200-millions-laeroport-cointrin
+- ATS (2021, February 25th). Plus d'un tiers des appartements suisses sont occupés par des personnes seules. *Le Temps*.  
+  https://www.letemps.ch/suisse/plus-dun-tiers-appartements-suisses-occupes-personnes-seules
 -
 
 
