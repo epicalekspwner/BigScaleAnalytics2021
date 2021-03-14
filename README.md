@@ -83,7 +83,7 @@ To be completed
   https://www.letemps.ch/economie/spotify-se-lance-plus-80-nouveaux-pays  
 - Le Temps, ATS (2021, February 21th). Le printemps précoce s'est invité en ce week-end de février. *Le Temps*.  
   https://www.letemps.ch/suisse/printemps-precoce-sest-invite-weekend-fevrier  
-- Favre, Laurent (2021, February 21th). Novak Djokovic est imbattable, la preuve par neuf. *Le Temps*.
+- Favre, Laurent (2021, February 21th). Novak Djokovic est imbattable, la preuve par neuf. *Le Temps*.  
   https://www.letemps.ch/sport/novak-djokovic-imbattable-preuve-neuf  
 - Genecand, Marie-Pierre (2021, February 8th). La médiation de voisinage, comme si vous y étiez. *Le Temps*.
   https://www.letemps.ch/societe/mediation-voisinage-y-etiez  
