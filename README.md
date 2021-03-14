@@ -68,14 +68,37 @@ To be completed
   https://www.bfs.admin.ch/asset/fr/213-1719
 - Office fédéral de la statistique (2020, November). *Le système d'indicateurs «Mesure du bien-être»*.  
   https://www.bfs.admin.ch/asset/fr/1877-2000
-- Office fédéral de la statistique (2020, November). *Panorama de la société suisse 2020*.  
+- Office fédéral de la statistique (2020, August). *Panorama de la société suisse 2020*.  
   https://www.bfs.admin.ch/asset/fr/2016-2000
 - Office fédéral de la statistique (2020, November). *Transport routier, ferroviaire et aérien : Coûts et financement des transports 2017*.  
   https://www.bfs.admin.ch/asset/fr/812-1700
 
+📰 **Online News Articles**
+
+- Etienne, Richard (2021, February 25th). Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin. *Le Temps*.  
+  https://www.letemps.ch/economie/geneve-accorde-un-pret-historique-200-millions-laeroport-cointrin
+- ATS (2021, February 25th). Plus d'un tiers des appartements suisses sont occupés par des personnes seules. *Le Temps*.  
+  https://www.letemps.ch/suisse/plus-dun-tiers-appartements-suisses-occupes-personnes-seules
+- AFP (2021, February 23th). Spotify se lance dans plus de 80 nouveaux pays. *Le Temps*.
+  https://www.letemps.ch/economie/spotify-se-lance-plus-80-nouveaux-pays
+- Le Temps, ATS (2021, February 21th). Le printemps précoce s'est invité en ce week-end de février. *Le Temps*.  
+  https://www.letemps.ch/suisse/printemps-precoce-sest-invite-weekend-fevrier
+- Favre, Laurent (2021, February 21th). Novak Djokovic est imbattable, la preuve par neuf. *Le Temps*.
+  https://www.letemps.ch/sport/novak-djokovic-imbattable-preuve-neuf
+- Genecand, Marie-Pierre (2021, February 8th). La médiation de voisinage, comme si vous y étiez. *Le Temps*.
+  https://www.letemps.ch/societe/mediation-voisinage-y-etiez
 
 
-
+- Bazin, Xavier (2021, February 25th). Vaccin en Israël : des chiffres troublants !. *FranceSoir*.
+  https://www.francesoir.fr/opinions-tribunes/vaccin-en-israel-des-chiffres-troublants
+- Colleu, Yannick (2021, February 24th). COVID 19 : Les données de Santé Publique France sont elles fiables ?. *FranceSoir*.
+  https://www.francesoir.fr/opinions-tribunes/les-donnees-de-sante-publique-france-sont-elles-fiables
+- FranceSoir (2021, February 20th). Le Conseil scientifique retourne sa veste partiellement sur le confinement : L'heure des comptes approche-t-elle ?. *FranceSoir*.  
+  https://www.francesoir.fr/societe-sante/le-conseil-scientifique-retourne-sa-veste-partiellement-sur-le-confinement-lheure-des
+- FranceSoir, AFP (2021, February 17th). Pays-Bas : le couvre-feu, objet d'un bras de fer judiciaire. *FranceSoir*.  
+  https://www.francesoir.fr/politique-monde/covid19-au-pays-bas-la-levee-du-couvre-feu-suspendue-une-decision-de-justice
+- FranceSoir (2021, February 21st). Les néonicotinoïdes : une menace pour les mammifères. *FranceSoir*.  
+  https://www.francesoir.fr/societe-environnement/les-neonicotinoides-une-menace-pour-les-mammiferes
 
 
 
