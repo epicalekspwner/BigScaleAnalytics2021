@@ -38,7 +38,7 @@
 ### 💭 How do we intend to solve the problem?
 
 <p align="justify"> 
- After much thought, we plan to approach this project as a <strong>classification problem</strong>. After building our model and training it, the output of out model is to <strong>predict a discrete class label</strong> (in our case, predict the difficulty of a unlabelled sentence (from A1 to C2)). The <strong>feature engineering</strong> we wish to explore can be reprensented by the following points:
+ After much thought, we plan to approach this project as a <strong>classification problem</strong>. After building our model and training it, the output of out model is to <strong>predict a discrete class label</strong>, i.e., in our case, <strong>predict the difficulty of a unlabelled sentence</strong> (from A1 to C2). The <strong>feature engineering</strong> we wish to explore can be reprensented by the following points:
 </p>
 
 **Words**
