@@ -60,9 +60,11 @@ After much thought, we plan to approach this project as a classification problem
 - French specific libraries
 - And more ...
 
-### 💾 Datasets
+### 💾 Dataset
 
 [Link](https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit?usp=sharing) (Team Amazon)
+
+#### Sources of our dataset
 
 📗 **Books**
 
@@ -109,7 +111,7 @@ After much thought, we plan to approach this project as a classification problem
 - [FranceSoir. 2021. "Les néonicotinoïdes : une menace pour les mammifères." *FranceSoir*, February 21, 2021.](https://www.francesoir.fr/societe-environnement/les-neonicotinoides-une-menace-pour-les-mammiferes)
 - [Genecand, Marie-Pierre. 2021. "La médiation de voisinage, comme si vous y étiez." *Le Temps*, February 8, 2021.](https://www.letemps.ch/societe/mediation-voisinage-y-etiez)
 
-**Other Online Sources**
+🌐 **Other Online Sources**
 
 - ["French Texts for Beginners". *Lingua*.](https://lingua.com/french/reading/)
 - [Bourrelly, Pierre & Lefeuvre, Jean Claude. "CYANOBACTÉRIES ou CYANOPHYCÉES, anc. ALGUES BLEUES" *Encyclopædia Universalis*.](https://www.universalis.fr/encyclopedie/cyanobacteries-cyanophycees-algues-bleues/)
