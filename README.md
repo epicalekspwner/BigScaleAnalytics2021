@@ -32,7 +32,7 @@
 
 - Vlachos, Michalis & Lappas, Theodoros. 2011. "Ranking German texts by comprehensibility for foreign document retrieval." *Proceedings of the 34th international ACM SIGIR conference on enriching in Information Retrieval*.  
   http://alumni.cs.ucr.edu/~mvlachos/pubs/ENIR2011.pdf
-- Mesnager, Jean. 2011. "Le vocabulaire et son enseignement : Le vocabulaire et son enseignement."
+- Mesnager, Jean. 2011. "Le vocabulaire et son enseignement : Le vocabulaire et son enseignement." *Ministère de l'Éducation nationale, de la Jeunesse et des Sports*.
   https://cache.media.eduscol.education.fr/file/Dossier_vocabulaire/57/4/Jean_Mesnager_111202_C_201574.pdf
 
 ### 💭 How do we intend to solve the problem?
