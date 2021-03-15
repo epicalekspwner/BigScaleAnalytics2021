@@ -58,6 +58,13 @@
 - Count **punctuation** (i.e., a more complex sentence will tend to contain more punctuation to handle grammatical difficulty)
 - Count the **different types of words** (i.e., a complex sentence will tend to be composed of a combination of several different types of words (noun, verb, adverb, pronoun, preposition, conjunction, etc.)
 
+🤖 **Algorithms**
+
+- Logistic Regression
+- Naive Bayes Classifier
+- K-nearest Neighbors
+- Decision Tree
+
 📦 **Libraries we intend to use**
 - NLTK Snowball (Stemmer)
 - Spacy French LEFFF
