@@ -30,8 +30,9 @@
 
 ### 📚 Review of the Existing Literature
 
-Vlachos, Michalis & Lappas, Theodoros. 2011. "Ranking German texts by comprehensibility for foreign document retrieval." *Proceedings of the 34th international ACM SIGIR conference on enriching in Information Retrieval*.  
-http://alumni.cs.ucr.edu/~mvlachos/pubs/ENIR2011.pdf
+- Vlachos, Michalis & Lappas, Theodoros. 2011. "Ranking German texts by comprehensibility for foreign document retrieval." *Proceedings of the 34th international ACM SIGIR conference on enriching in Information Retrieval*.  
+  http://alumni.cs.ucr.edu/~mvlachos/pubs/ENIR2011.pdf
+-
 
 ### 💭 How do we intend to solve the problem?
 
