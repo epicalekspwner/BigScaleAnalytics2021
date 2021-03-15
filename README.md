@@ -29,10 +29,33 @@
 ### Milestone 1 - Reading/Thinking & Gathering the data 
 
 ### 📚 Review of the Existing Literature
+
 To be completed
 
 ### 💭 How do we intend to solve the problem?
-To be completed
+
+After much thought, we plan to approach this project as a classification problem. The feature engineering we wish to explore are the following:
+
+**Words**
+- Counting words for each of the categories
+- Create a dictionary for each level that contains the most frequent words
+- Categorize the different types of words (POStag)
+- Grouping of letters
+- Deal with deceptive cognates (list of 139 words)
+- Deal with cognates (2 possible options)
+  - List of 58,000 english words (need to be translated into French and then lemmetized both to obtain similar roots)
+  - Look at the suffixes (e.g. words ending by "tion" have a high probabilty to have a straightforward translation in English)
+
+**Sentences**
+- Measure the length of sentences
+- Count punctuation (i.e. a more complex sentence will tend to contain more punctuation)
+- Count the different types of words
+
+**Libraries to use**
+- NLTK Snowball (stemmer)
+- Spacy French LEFFF
+- French specific libraries
+- And more ...
 
 ### 💾 Datasets
 To be completed
