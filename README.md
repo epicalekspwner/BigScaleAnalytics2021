@@ -81,6 +81,7 @@ After much thought, we plan to approach this project as a classification problem
 <p align="justify"> 
 Overall, the dataset is **well balanced** and will therefore **prevent the model from being biased** due to under/over representation of one category over another.
 </p>
+
 #### Sources of our dataset
 
 📗 **Books**
