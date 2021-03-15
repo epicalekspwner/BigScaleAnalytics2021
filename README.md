@@ -39,26 +39,26 @@ To be completed
 
 📗 **Books**
 
-- Barnes, Djurna. 1986. *Le Bois de la nuit*. France: Points roman.
+- Barnes, Djurna. 1986. *Le Bois de la nuit*. Points roman.
 - Césaire, Aimé. 1939. *Cahier d'un retour au pays natal*. Paris: Pierre Bordas.
 - De Beauvoir, Simone. 1949. *Le Deuxième Sexe*. Paris: NRF.
-- De La Fontaine, Jean. *Fables*
-- De Maupassant, Guy. *Bel-Ami*.
-- De Maupassant, Guy. *Le Horla*.
-- De Saint-Exupéry, Antoine. 1943. *Le petit prince*. France: Gallimard.
-- Diome, Fatou. *Le ventre de l'Atlantique*.
-- Flaubert, Gustave. *Madame Bovary*
-- Lindon, Jérôme. *Jean Echenoz*
-- Pennac, Daniel. 2007. *Chagrin d'école*. France: Éditions Gallimard.
-- Proust, Marcel. 1913. *Du côté de chez Swann*. Paris: Bernard Grasset
-- Proust, Marcel. 1927. *Le Temps retrouvé*.
+- De La Fontaine, Jean. 1778. *Fables de La Fontaine*. Fides.
+- De Maupassant, Guy. 1885. *Bel-Ami*. Paris: Victor Havard.
+- De Maupassant, Guy. 1887. *Le Horla*. Paris: Paul Ollendorff.
+- De Saint-Exupéry, Antoine. 1943. *Le petit prince*. Paris: Gallimard.
+- Diome, Fatou. 2003. *Le ventre de l'Atlantique*. Paris: Anne Carrière.
+- Flaubert, Gustave. 1857. *Madame Bovary*. Paris: Michel Lévy frères.
+- Echenoz, Jean. 2001. *Jérôme Lindon*. Paris: Éditions de Minuit.
+- Pennac, Daniel. 2007. *Chagrin d'école*. Paris: Éditions Gallimard.
+- Proust, Marcel. 1913. *Du côté de chez Swann*. Paris: Bernard Grasset.
+- Proust, Marcel. 1918. *À l'ombre des jeunes filles en fleurs*. Paris: Éditions Gallimard.
 - Queneau, Raymond. 1947. *Exercices de style*. Paris: Gallimard.
-- Rostand, Edmond. *Cyrano de Bergerac*.
-- Schmitt, Éric-Emmanuel. *Monsieur Ibrahim et les fleurs du Coran*.
-- Verne, Jules. *Vingt mille lieues sous les mers*
+- Rostand, Edmond. 1898. *Cyrano de Bergerac*. Paris: Charpentier et Fasquelle.
+- Schmitt, Éric-Emmanuel. 2001. *Monsieur Ibrahim et les fleurs du Coran*. Paris: Albin Michel.
+- Verne, Jules. 1896. *Vingt mille lieues sous les mers*. Paris: Hetzel.
 - Voltaire. 1759. *Candide*. Genève: Gabriel Cramer.
-- Zola, Émile. 1883. *Au bonheur des dames*. France:	Georges Charpentier.
-- Zola, Émile. 1877. *L’Assommoir*. France:	Georges Charpentier.
+- Zola, Émile. 1883. *Au bonheur des dames*. Paris:	Georges Charpentier.
+- Zola, Émile. 1877. *L’Assommoir*. Paris:	Georges Charpentier.
 
 🔬 **Studies**
 
