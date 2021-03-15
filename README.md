@@ -48,8 +48,8 @@ After much thought, we plan to approach this project as a classification problem
 - Analyze the **grouping of letters**
 - Deal with **deceptive cognates** (i.e. words that resemble French ones, but do not have the same meaning) (list of 139 most common deceptive cognates)
 - Deal with **cognates** (i.e. words that resemble French ones and from which one can deduce the meaning): 2 possible options
-  - List of 58,000 english words (need to be translated into French and then lemmetized both to obtain similar roots)
-  - Look at the suffixes (e.g. words ending by "tion" have a high probabilty to have a straightforward translation in English)
+- **1<sup>st</sup> solution**: list of 58,000 english words (need to be translated into French and then lemmetized both to obtain similar roots)
+- **2<sup>nd</sup> solution**: look at the suffixes (e.g. words ending by "tion" have a high probabilty to have a straightforward translation in English)
 
 **Sentences**
 - Measure the **length of sentences** (i.e., the shorter the sentence, the easier it is to understand and vice versa)
