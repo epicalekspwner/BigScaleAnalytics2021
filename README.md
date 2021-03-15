@@ -78,23 +78,23 @@ To be completed
 
 📰 **Online News Articles**
 
-- AFP (2021, February 23th). Spotify se lance dans plus de 80 nouveaux pays. *Le Temps*.  
+- AFP. 2021. "Spotify se lance dans plus de 80 nouveaux pays." *Le Temps*, February 23, 2021.    
   https://www.letemps.ch/economie/spotify-se-lance-plus-80-nouveaux-pays
-- ATS (2021, February 25th). Plus d'un tiers des appartements suisses sont occupés par des personnes seules. *Le Temps*.  
+- ATS. 2021. "Plus d'un tiers des appartements suisses sont occupés par des personnes seules." *Le Temps* February 25, 2021.       
   https://www.letemps.ch/suisse/plus-dun-tiers-appartements-suisses-occupes-personnes-seules
-- Bazin, Xavier (2021, February 25th). Vaccin en Israël : des chiffres troublants. *FranceSoir*.  
+- Bazin, Xavier. 2021. "Vaccin en Israël : des chiffres troublants." *FranceSoir* February 25, 2021.  
   https://www.francesoir.fr/opinions-tribunes/vaccin-en-israel-des-chiffres-troublants
-- Colleu, Yannick (2021, February 24th). COVID 19 : les données de Santé Publique France sont-elles fiables ?. *FranceSoir*.  
+- Colleu, Yannick. 2021. "COVID 19 : les données de Santé Publique France sont-elles fiables ?" *FranceSoir*, February 24, 2021.    
   https://www.francesoir.fr/opinions-tribunes/les-donnees-de-sante-publique-france-sont-elles-fiables
-- Etienne, Richard (2021, February 25th). Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin. *Le Temps*.  
+- Etienne, Richard. 2021. "Genève accorde un prêt historique de 200 millions à l’aéroport de Cointrin." *Le Temps*, February 25, 2021.      
   https://www.letemps.ch/economie/geneve-accorde-un-pret-historique-200-millions-laeroport-cointrin
-- Favre, Laurent (2021, February 21th). Novak Djokovic est imbattable, la preuve par neuf. *Le Temps*.  
+- Favre, Laurent. 2021. "Novak Djokovic est imbattable, la preuve par neuf." *Le Temps*, February 21, 2021.    
   https://www.letemps.ch/sport/novak-djokovic-imbattable-preuve-neuf
-- FranceSoir, AFP (2021, February 17th). Pays-Bas : le couvre-feu, objet d'un bras de fer judiciaire. *FranceSoir*.  
+- FranceSoir, AFP. 2021. "Pays-Bas : le couvre-feu, objet d'un bras de fer judiciaire." *FranceSoir*, February 17, 2021.    
   https://www.francesoir.fr/politique-monde/covid19-au-pays-bas-la-levee-du-couvre-feu-suspendue-une-decision-de-justice
-- FranceSoir (2021, February 21st). Les néonicotinoïdes : une menace pour les mammifères. *FranceSoir*.  
+- FranceSoir. 2021. "Les néonicotinoïdes : une menace pour les mammifères." *FranceSoir*, February 21, 2021.   
   https://www.francesoir.fr/societe-environnement/les-neonicotinoides-une-menace-pour-les-mammiferes
-- Genecand, Marie-Pierre (2021, February 8th). La médiation de voisinage, comme si vous y étiez. *Le Temps*.  
+- Genecand, Marie-Pierre. 2021. "La médiation de voisinage, comme si vous y étiez." *Le Temps*, February 8, 2021.     
   https://www.letemps.ch/societe/mediation-voisinage-y-etiez
 
 
