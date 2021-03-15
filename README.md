@@ -37,7 +37,9 @@
 
 ### 💭 How do we intend to solve the problem?
 
+<p align="justify"> 
 After much thought, we plan to approach this project as a classification problem. The feature engineering we wish to explore are the following:
+</p>
 
 **Words**
 - Counting words for each of the categories
