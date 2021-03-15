@@ -30,13 +30,13 @@
 
 ### 📚 Review of the Existing Literature
 
-🥨 **German** 
+🥨 **Learning German** 
 - [Vlachos, Michalis & Lappas, Theodoros. 2011. "Ranking German texts by comprehensibility for foreign document retrieval." *Proceedings of the 34th international ACM SIGIR conference on enriching in Information Retrieval*.](http://alumni.cs.ucr.edu/~mvlachos/pubs/ENIR2011.pdf)
 
-🥖 **French**
+🥖 **Learning French**
 - [Mesnager, Jean. 2011. "Le vocabulaire et son enseignement : Le vocabulaire et son enseignement." *Ministère de l'Éducation nationale, de la Jeunesse et des Sports*.](https://cache.media.eduscol.education.fr/file/Dossier_vocabulaire/57/4/Jean_Mesnager_111202_C_201574.pdf)
 
-🐟 **Portuguese**
+🐟 **Learning Portuguese**
 - [Curto, Pedro & Mamede, Nuno & Baptista, Jorge. 2015. "Automatic text difficulty classifier." *Assisting the selection of adequate reading materials for European Portuguese teaching. Proceedings of CSEDU*: 36-44.](https://www.inesc-id.pt/publications/11043/pdf)
 
 ### 💭 How Do We Intend to Solve the Problem?
