@@ -50,9 +50,9 @@ After much thought, we plan to approach this project as a classification problem
   - Look at the suffixes (e.g. words ending by "tion" have a high probabilty to have a straightforward translation in English)
 
 **Sentences**
-- Measure the length of sentences
-- Count punctuation (i.e. a more complex sentence will tend to contain more punctuation)
-- Count the different types of words
+- Measure the **length of sentences** (i.e., the shorter the sentence, the easier it is to understand and vice versa)
+- Count **punctuation** (i.e., a more complex sentence will tend to contain more punctuation to handle grammatical difficulty)
+- Count the **different types of words** (i.e., a complex sentence will tend to be composed of a combination of several different types of words (noun, verb, adverb, pronoun, preposition, conjunction, etc.)
 
 **Libraries to use**
 - NLTK Snowball (stemmer)
