@@ -67,7 +67,8 @@ After much thought, we plan to approach this project as a classification problem
 **Size of the dataset**: 1030 sentences  
 **Own contribution**: 960 sentences
 
-**Distribution of the levels**  
+🎚️ **Distribution of the levels**    
+
 **A1**: 175 sentences (17%)  
 **A2**: 198 sentences (19%)  
 **B1**: 179 sentences (17%)  
