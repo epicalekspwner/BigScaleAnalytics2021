@@ -79,7 +79,7 @@ After much thought, we plan to approach this project as a classification problem
 **C2**: 162 sentences (16%)  
 
 <p align="justify"> 
-Overall, the dataset is **well balanced** and will therefore **prevent the model from being biased** due to under/over representation of one category over another.
+Overall, the dataset is <strong>well balanced</strong> and will therefore <strong>prevent the model from being biased</strong> due to under/over representation of one category over another.
 </p>
 
 #### Sources of our dataset
