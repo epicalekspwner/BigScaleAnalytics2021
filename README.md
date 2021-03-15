@@ -62,9 +62,19 @@ After much thought, we plan to approach this project as a classification problem
 
 ### 💾 Dataset
 
-[Link](https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit?usp=sharing) (Team Amazon)  
+[Link](https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit?usp=sharing) (Team Amazon)    
+
 **Size of the dataset**: 1030 sentences  
 **Own contribution**: 960 sentences
+
+**Distribution of the levels**  
+**A1**: 175 sentences (17%)  
+**A2**: 198 sentences (19%)  
+**B1**: 179 sentences (17%)  
+**B2**: 172 sentences (17%)  
+**C1**: 144 sentences (14%)  
+**C2**: 162 sentences (16%)  
+
 
 #### Sources of our dataset
 
