@@ -78,8 +78,9 @@ After much thought, we plan to approach this project as a classification problem
 **C1**: 144 sentences (14%)  
 **C2**: 162 sentences (16%)  
 
+<p align="justify"> 
 Overall, the dataset is **well balanced** and will therefore **prevent the model from being biased** due to under/over representation of one category over another.
-
+</p>
 #### Sources of our dataset
 
 📗 **Books**
