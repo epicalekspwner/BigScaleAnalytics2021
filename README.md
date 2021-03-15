@@ -39,7 +39,7 @@
 🐟 **Portuguese**
 - [Curto, Pedro & Mamede, Nuno & Baptista, Jorge. 2015. "Automatic text difficulty classifier." *Assisting the selection of adequate reading materials for European Portuguese teaching. Proceedings of CSEDU*: 36-44.](https://www.inesc-id.pt/publications/11043/pdf)
 
-### 💭 How do we intend to solve the problem?
+### 💭 How Do We Intend to Solve the Problem?
 
 <p align="justify"> 
  After much thought, we plan to approach this project as a <strong>classification problem</strong>. After building our model and training it, the output of out model is to <strong>predict a discrete class label</strong>, i.e., in our case, <strong>predict the difficulty of a unlabelled sentence</strong> (from A1 to C2). Modeling this problem as a classification problem will also allow us to evaluate the model in terms of <strong>accuracy</strong>, whose interpretation is intuitive in our case.
@@ -69,7 +69,7 @@
 - **K-nearest Neighbors**
 - **Decision Tree**
 
-📦 **Libraries we intend to use**
+📦 **Libraries We Intend to Use**
 - NLTK Snowball (Stemmer)
 - Spacy French LEFFF
 - French specific libraries
@@ -95,7 +95,7 @@
 Overall, the dataset is <strong>well balanced</strong> and will therefore <strong>prevent the model from being biased</strong> due to under/over representation of one category over another.
 </p>
 
-#### Sources of our dataset
+#### Sources of Our Dataset
 
 📗 **Books**
 
