@@ -38,26 +38,27 @@ To be completed
 To be completed
 
 📗 **Books**
-- Aimé Césaire, *Cahier d'un retour au pays natal*
-- Antoine de Saint-Exupéry, *Le petit prince*
-- Daniel Pennac, *Chagrin d'école*
-- Djurna Barnes, *Le Bois de la nuit*
-- Edmond Rostand, *Cyrano de Bergerac*
-- Émile Zola, *Au bonheur des dames*
-- Émile Zola, *L’Assommoir*
-- Éric-Emmanuel Schmitt, *Monsieur Ibrahim et les fleurs du Coran*
-- Fatou Diome, *Le ventre de l'Atlantique*
-- Gustave Flaubert, *Madame Bovary*
-- Guy de Maupassant, *Bel-Ami*
-- Guy de Maupassant, *Le Horla*
-- Jean de La Fontaine, *Fables*
-- Jérôme Lindon, *Jean Echenoz*
-- Jules Verne, *Vingt mille lieues sous les mers*
-- Marcel Proust, *À la recherche du temps perdu*
-- Marcel Proust, *Du côté de chez Swann*
-- Raymond Queneau, *Exercices de style*
-- Simone de Beauvoir, *Le Deuxième Sexe*
-- Voltaire, *Candide*
+
+- Barnes, Djurna. 1986. *Le Bois de la nuit*. France: Points roman.
+- Césaire, Aimé. 1939. *Cahier d'un retour au pays natal*. Paris: Pierre Bordas.
+- De Beauvoir, Simone. 1949. *Le Deuxième Sexe*. Paris: NRF.
+- De La Fontaine, Jean. *Fables*
+- De Maupassant, Guy. *Bel-Ami*.
+- De Maupassant, Guy. *Le Horla*.
+- De Saint-Exupéry, Antoine. 1943. *Le petit prince*. France: Gallimard.
+- Diome, Fatou. *Le ventre de l'Atlantique*.
+- Flaubert, Gustave. *Madame Bovary*
+- Lindon, Jérôme. *Jean Echenoz*
+- Pennac, Daniel. 2007. *Chagrin d'école*. France: Éditions Gallimard.
+- Proust, Marcel. 1913. *Du côté de chez Swann*. Paris: Bernard Grasset
+- Proust, Marcel. 1927. *Le Temps retrouvé*.
+- Queneau, Raymond. 1947. *Exercices de style*. Paris: Gallimard.
+- Rostand, Edmond. *Cyrano de Bergerac*.
+- Schmitt, Éric-Emmanuel. *Monsieur Ibrahim et les fleurs du Coran*.
+- Verne, Jules. *Vingt mille lieues sous les mers*
+- Voltaire. 1759. *Candide*. Genève: Gabriel Cramer.
+- Zola, Émile. 1883. *Au bonheur des dames*. France:	Georges Charpentier.
+- Zola, Émile. 1877. *L’Assommoir*. France:	Georges Charpentier.
 
 🔬 **Studies**
 
@@ -76,7 +77,7 @@ To be completed
 - Office fédéral de la statistique. 2020. *Transport routier, ferroviaire et aérien : Coûts et financement des transports 2017*.  
   https://www.bfs.admin.ch/asset/fr/812-1700
 
-📰 **Online News Articles**
+📰 **Online Articles**
 
 - AFP. 2021. "Spotify se lance dans plus de 80 nouveaux pays." *Le Temps*, February 23, 2021.    
   https://www.letemps.ch/economie/spotify-se-lance-plus-80-nouveaux-pays
