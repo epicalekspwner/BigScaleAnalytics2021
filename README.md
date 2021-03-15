@@ -61,7 +61,8 @@ After much thought, we plan to approach this project as a classification problem
 - And more ...
 
 ### 💾 Datasets
-To be completed
+
+[Link](https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit?usp=sharing) (Team Amazon)
 
 📗 **Books**
 
