@@ -43,7 +43,7 @@
  The <strong>feature engineering</strong> we wish to explore can be reprensented by the following points:
 </p>
 
-**Words**
+📃 **Words**
 - Categorize the **different types of words** (Part-Of-Speech Tagger)
 - Count the **word frequency** for each categorie (i.e., the more frequent a word is, the easier it should be to be assimilated)
 - Create a **dictionary** for each level that contains the **most frequent words**
@@ -53,16 +53,16 @@
 - **1<sup>st</sup> solution**: list of 58,000 english words (need to be translated into French and then lemmetized both to obtain similar roots)
 - **2<sup>nd</sup> solution**: look at the suffixes (e.g. words ending by "tion" have a high probabilty to have a straightforward translation in English)
 
-**Sentences**
+📃 **Sentences**
 - Measure the **length of sentences** (i.e., the shorter the sentence, the easier it is to understand and vice versa)
 - Count **punctuation** (i.e., a more complex sentence will tend to contain more punctuation to handle grammatical difficulty)
 - Count the **different types of words** (i.e., a complex sentence will tend to be composed of a combination of several different types of words (noun, verb, adverb, pronoun, preposition, conjunction, etc.)
 
-**Libraries to use**
-- NLTK Snowball (stemmer)
+📦 **Libraries we intend to use**
+- NLTK Snowball (Stemmer)
 - Spacy French LEFFF
 - French specific libraries
-- And more ...
+- And more 😉
 
 ### 💾 Dataset
 
