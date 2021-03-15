@@ -63,6 +63,8 @@ After much thought, we plan to approach this project as a classification problem
 ### 💾 Dataset
 
 [Link](https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit?usp=sharing) (Team Amazon)
+**Size of the dataset**: 1030 sentences
+**Own contribution**: 960 sentences
 
 #### Sources of our dataset
 
