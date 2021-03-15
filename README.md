@@ -115,7 +115,7 @@ After much thought, we plan to approach this project as a classification problem
 - [FranceSoir. 2021. "Les néonicotinoïdes : une menace pour les mammifères." *FranceSoir*, February 21, 2021.](https://www.francesoir.fr/societe-environnement/les-neonicotinoides-une-menace-pour-les-mammiferes)
 - [Genecand, Marie-Pierre. 2021. "La médiation de voisinage, comme si vous y étiez." *Le Temps*, February 8, 2021.](https://www.letemps.ch/societe/mediation-voisinage-y-etiez)
 
-**Other Websites**
+🌐 **Other Websites**
 
 - [Bernard, Emeline. 2021. "10 erreurs à ne pas faire avec son chien selon les vétérinaires." *Ohmymag*, March 2, 2021.](https://www.ohmymag.com/animaux/10-erreurs-a-ne-pas-commettre-avec-son-chien_art141138.html)
 - [Bourrelly, Pierre & Lefeuvre, Jean Claude. "CYANOBACTÉRIES ou CYANOPHYCÉES, anc. ALGUES BLEUES" *Encyclopædia Universalis*.](https://www.universalis.fr/encyclopedie/cyanobacteries-cyanophycees-algues-bleues/)
