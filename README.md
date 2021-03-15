@@ -45,7 +45,7 @@ After much thought, we plan to approach this project as a classification problem
 - Categorize the different types of words (POStag)
 - Grouping of letters
 - Deal with deceptive cognates (list of 139 words)
-- Deal with cognates (2 possible options)
+- Deal with cognates (2 possible options)  
   - List of 58,000 english words (need to be translated into French and then lemmetized both to obtain similar roots)
   - Look at the suffixes (e.g. words ending by "tion" have a high probabilty to have a straightforward translation in English)
 
