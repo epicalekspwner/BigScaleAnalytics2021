@@ -156,7 +156,7 @@ Overall, the dataset is <strong>well balanced</strong> and will therefore <stron
 ### Milestone 2 - Creating/Evaluating the model
 
 
-####**First model using: Text Classification in Google Cloud Natural Language Automl**
+####  **First model using: Text Classification in Google Cloud Natural Language Automl**
 
 *Model type*: Single-label classification
 *Test items*: 102
@@ -170,7 +170,7 @@ Confusion matrix:
 
 **Note**: We cans see that the model has difficulties at predicting B2 and C1 levels. One of the reason might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
 
-####**Second model: Regression using Features Engineering**
+####  **Second model: Regression using Features Engineering**
 
 On-going...Models need to be done
 
@@ -197,6 +197,6 @@ Deceptive cognomes graphic (a):
 
 We can see on the above graph that the more complex a sentence is the more deceptive cognates (aka false friends) there are.
 
-####**Final model: Combination of the two model**
+####  **Final model: Combination of the two model**
 
 On-going...
