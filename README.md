@@ -197,6 +197,6 @@ Deceptive cognomes graphic (a):
 
 We can see on the above graph that the more complex a sentence is the more deceptive cognates (aka false friends) there are.
 
-####  **Final model: Combination of the two model**
+####  **Final model: Combination of the two models**
 
 On-going...
