@@ -187,7 +187,7 @@ Features engineering:
 |✔️| *Type of words*               |  Return a dict {"Word": "Type of word"}                        | 
 |✔️| *Number of punctuation*       |  Return the number of punctuation there is in the sentence |
 |✔️| *Deceptive cognomes*          |Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
-|✔️| *Cognomes*                    | From a list of ~58k english words, we took the words with specific suffixes (high chance of being cognates + reduced the running time from 7h to less than 1h). Then we translated them into french. After we stemmed both english and french words. After we compared the similarity of the stem. We then obtained a score for each cognates. The score is up to 100 (100 same stem). We then created a functions that return a similarity score, which is the sum of all cognates score present in the sentence and deceptive cognates score are deducted.                 |
+|✔️| *Cognomes*                    | From a list of ~58k english words, we took the words with specific suffixes (high chance of being cognates + reduced the running time from 7h to less than 1h). We ended up with ~ 13k candidates. Then we translated them into french. After we stemmed both english and french words. After we compared the similarity of the stem. We then obtained a score for each cognates. The score is up to 100 (100 same stem). We then created a functions that return a similarity score, which is the sum of all cognates score present in the sentence and deceptive cognates score are deducted.                |
 |❌| *Common words for each category*     |  Creation of list with the most common words for each category.| |
 
 Deceptive cognomes graphic (a):
