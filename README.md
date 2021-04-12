@@ -158,10 +158,10 @@ Overall, the dataset is <strong>well balanced</strong> and will therefore <stron
 
 ####  **First model using: Text Classification in Google Cloud Natural Language Automl**
 
-*Model type*: Single-label classification
-*Test items*: 102
-*Precision*: 80%
-*Recall*: 35.29%
+- *Model type*: Single-label classification
+- *Test items*: 102
+- *Precision*: 80%
+- *Recall*: 35.29%
 
 
 Confusion matrix: 
@@ -174,10 +174,10 @@ Confusion matrix:
 
 On-going...Models need to be done
 
-*Model type*: Regression
-*Test items*:  ___
-*Precision*:   ___
-*Recall*:      ___
+- *Model type*: Regression
+- *Test items*:  ___
+- *Precision*:   ___
+- *Recall*:      ___
 
 Features engineering:
 
