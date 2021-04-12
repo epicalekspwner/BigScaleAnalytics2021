@@ -151,3 +151,51 @@ Overall, the dataset is <strong>well balanced</strong> and will therefore <stron
 - ["French Texts for Beginners". *Lingua*.](https://lingua.com/french/reading/)
 - [La Dépêche. 2021. "Tout savoir avant d’adopter un chat." *La Dépêche*, February 24, 2021.](https://www.ladepeche.fr/2021/02/24/tout-savoir-avant-dadopter-un-chat-9391356.php)
 - [Lavorel, Jean & Mazliak, Paul & Moyse, Alexis. "PHOTOSYNTHÈSE" *Encyclopædia Universalis*.](https://www.universalis.fr/encyclopedie/photosynthese/)
+
+
+### Milestone 2 - Creating/Evaluating the model
+
+
+**First model using: Text Classification in Google Cloud Natural Language Automl**
+
+Model type: Single-label classification
+Test items: 102
+Precision: 80%
+recall: 35.29%
+
+Confusion matrix: 
+
+![Confusion matrix](https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png)
+
+**Note**: We cans see that the model has difficulties at predicting B2 and C1 levels. One of the reason might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
+
+**Second model: Regression using Features Engineering**
+
+On-going...
+
+Model type: Regression
+Test items:
+Precision:
+recall: 
+
+Features engineering:
+
+|Done| Feature Name | Method |
+|---|---------------------         |-------------------------------------------------------------------------|
+|✔️| *Sentences lengths*           |  Return the length of the sentence                             |
+|✔️| *Type of words*               |  Return a dict {"Word": "Type of word"}                        | 
+|✔️| *Number of punctuation*       |  Return the number of punctuation there is in the sentence |
+|✔️| *Deceptive cognomes*          |Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
+|✔️| *Cognomes*                    | From a list of ~58k english words, we took the words with specific suffixes (high chance of being cognates + reduced the running time from 7h to less than 1h). Then we translated them into french. After we stem both english and french using english and french stemmer. After we compared the similarity of the stem  using difflib. We then obtained a score for each cognates. The score is up to 100 (100 same stem). We then created a functions that return a similarity score, which is the sum of all cognates socre present in the sentences. Deceptive cognates score are deducted.                 |
+|❌| *Common words for each category*     |  Creation of list with the most common words for each category.| |
+
+Deceptive cognomes graphic (a):
+
+
+![Avg_Dcognate_plot](https://user-images.githubusercontent.com/71261918/114367569-da8f3380-9b7c-11eb-8e36-ec9dfb26e051.PNG)
+
+We can see on the above graph that the more complex a sentence is the more deceptive cognates (aka false friends) there are.
+
+**Final model: Combination of the two model**
+
+On-going...
