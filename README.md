@@ -170,7 +170,7 @@ Confusion matrix:
 
 **Note**: We can see that the model has difficulties at predicting B2 and C1 levels. One of the reasons might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
 
-####  **Second model: Regression using Features Engineering**
+####  **Second model: Regression or classification using Features Engineering**
 
 On-going...Models need to be done
 
