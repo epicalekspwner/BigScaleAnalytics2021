@@ -168,7 +168,7 @@ Confusion matrix:
 
 ![Confusion matrix](https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png)
 
-**Note**: We cans see that the model has difficulties at predicting B2 and C1 levels. One of the reason might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
+**Note**: We can see that the model has difficulties at predicting B2 and C1 levels. One of the reasons might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
 
 ####  **Second model: Regression using Features Engineering**
 
@@ -186,8 +186,8 @@ Features engineering:
 |✔️| *Sentences lengths*           |  Return the length of the sentence                             |
 |✔️| *Type of words*               |  Return a dict {"Word": "Type of word"}                        | 
 |✔️| *Number of punctuation*       |  Return the number of punctuation there is in the sentence |
-|✔️| *Deceptive cognomes*          |Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
-|✔️| *Cognomes*                    | From a list of ~58k english words, we took the words with specific suffixes (high chance of being cognates + reduced the running time from 7h to less than 1h). We ended up with ~ 13k candidates. Then we translated them into french. After we stemmed both english and french words. After we compared the similarity of the stem. We then obtained a score for each cognates. The score is up to 100 (100 same stem). We then created a functions that return a similarity score, which is the sum of all cognates score present in the sentence and deceptive cognates score are deducted.                |
+|✔️| *Deceptive cognates*          |Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
+|✔️| *Cognates*                    | From a list of ~58k English words, we took the words with specific suffixes (high chance of being cognates + reduced the running time from 7h to less than 1h). We ended up with ~ 13k candidates. Then we translated them into french. After we stemmed both English and French words. After we compared the similarity of the stem. We then obtained a score for each cognate. The score is up to 100 (100 same stems). We then created a function that returns a similarity score, which is the sum of all cognates score present in the sentence and deceptive cognates score are deducted.                |
 |❌| *Common words for each category*     |  Creation of list with the most common words for each category.| |
 
 Deceptive cognomes graphic (a):
@@ -195,7 +195,7 @@ Deceptive cognomes graphic (a):
 
 ![Avg_Dcognate_plot](https://user-images.githubusercontent.com/71261918/114367569-da8f3380-9b7c-11eb-8e36-ec9dfb26e051.PNG)
 
-We can see on the above graph that the more complex a sentence is the more deceptive cognates (aka false friends) there are.
+We can see on the above graph that the more complex a sentence is, the more deceptive cognates (aka false friends) there are.
 
 ####  **Final model: Combination of the two models**
 
