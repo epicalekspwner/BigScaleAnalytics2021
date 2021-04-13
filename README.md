@@ -163,6 +163,8 @@ Overall, the dataset is <strong>well balanced</strong> and will therefore <stron
 - *Precision*: 80%
 - *Recall*: 35.29%
 
+You want to try our model? [Click-here](https://github.com/epicalekspwner/BigScaleAnalytics2021/blob/main/BSA_project_AUTOML.ipynb)
+
 
 Confusion matrix: 
 
