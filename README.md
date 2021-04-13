@@ -189,7 +189,8 @@ Features engineering:
 |✔️| *Type of words*               |  Return a dict {"Word": "Type of word"}                        | 
 |✔️| *Number of punctuation*       |  Return the number of punctuation there is in the sentence |
 |✔️| *Deceptive cognates*          |Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
-|✔️| *Cognates*                    | From a list of ~58k English words, we took the words with specific suffixes (high chance of being cognates + reduced the running time from 7h to less than 1h). We ended up with ~ 13k candidates. Then we translated them into french. After we stemmed both English and French words. After we compared the similarity of the stem. We then obtained a score for each cognate. The score is up to 100 (100 same stems). We then created a function that returns a similarity score, which is the sum of all cognates score present in the sentence and deceptive cognates score are deducted.                |
+|✔️| *Cognates*                    | From a list of ~ 370k English words [From here](https://github.com/dwyl/english-words/blob/master/words_alpha.txt), we took the words with specific suffixes (high chance of being cognates + reduced the running time from 7h to less than 1h). We ended up with ~ 13k candidates. Then we translated them into french. After we stemmed both English and French words. After we compared the similarity of the stem. We then obtained a score for each cognate. The score is up to 100 (100 same stems). We then created a function that returns a similarity score, which is the sum of all cognates score present in the sentence and deceptive cognates score are deducted. 
+Idea came from: the french/english learning tools [Here](https://www.anglaisfacile.com/exercices/exercice-anglais-2/exercice-anglais-70779.php)|
 |❌| *Common words for each category*     |  Creation of list with the most common words for each category.| |
 
 Deceptive cognomes graphic (a):
