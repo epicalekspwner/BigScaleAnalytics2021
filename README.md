@@ -202,3 +202,8 @@ We can see on the above graph that the more complex a sentence is, the more dece
 ####  **Final model: Combination of the two models**
 
 On-going...
+
+Hint: We were think about combining the two models and making an average from the two levels. We are still thinking about:
+
+- Either doing a regression model with features (getting someting between 0 to 5) or a classification;
+- The final score would be the average between the score from automl ("convert" them to 0 to 5 if regression) and the score from the model (from the features).
