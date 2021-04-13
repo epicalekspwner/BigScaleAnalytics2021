@@ -163,14 +163,20 @@ Overall, the dataset is <strong>well balanced</strong> and will therefore <stron
 - *Precision*: 80%
 - *Recall*: 35.29%
 
-You want to try our model? [Click-here](https://github.com/epicalekspwner/BigScaleAnalytics2021/blob/main/BSA_project_AUTOML.ipynb)
+You want to try our model? 
+
+When installing google cloud package **DO NOT FORGET to reset environment**
+
+[Click-here](https://github.com/epicalekspwner/BigScaleAnalytics2021/blob/main/BSA_project_AUTOML.ipynb)
 
 
 Confusion matrix: 
 
 ![Confusion matrix](https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png)
 
-**Note**: We can see that the model has difficulties at predicting B2 and C1 levels. One of the reasons might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
+**Note 1**: We can see that the model has difficulties at predicting B2 and C1 levels. One of the reasons might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
+
+**Note 2**: Our model is super sensible to the length of the sentence. If we put mutiple times a really simple sentence it will end up with a C2 level.we need to reevaluate !
 
 ####  **Second model: Regression or classification using Features Engineering**
 
