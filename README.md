@@ -168,7 +168,7 @@ You want to try our model?
 
 When installing google cloud package **DO NOT FORGET to reset environment**
 
-[Click-here](https://github.com/epicalekspwner/BigScaleAnalytics2021/blob/main/BSA_project_AUTOML.ipynb)
+[Click-here](https://github.com/epicalekspwner/BigScaleAnalytics2021/blob/main/BSA_project_AUTOMLv2.ipynb)
 
 
 Confusion matrix: 
