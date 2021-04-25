@@ -1,13 +1,13 @@
 
  
-![banner_main](https://raw.githubusercontent.com/epicalekspwner/BigScaleAnalytics2021/main/Resources/groupAmazon_banner_main_v2.svg?token=ARERL5G7NZAUBDZRS6BJTLTAP7QC2)
+![banner_main](https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/groupAmazon_banner_main_v2.svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/epicalekspwner/BigScaleAnalytics2021/main/Resources/groupAmazon_central_banner.gif?token=ARERL5GF2ULIBJRPHAWFCWLAP7QE6" />
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/groupAmazon_central_banner.gif" />
 </p>
 
 
-![banner_team](https://raw.githubusercontent.com/epicalekspwner/BigScaleAnalytics2021/main/Resources/groupAmazon_banner_team.svg?token=ARERL5FCOHKHZE72G2X57E3AP7QHQ)
+![banner_team](https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/groupAmazon_banner_team.svg)
 
 ### 🕵️ Project Description
 
