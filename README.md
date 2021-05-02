@@ -12,7 +12,7 @@
 ### 🕵️ Project Description
 
 <p align="justify"> 
-  <strong>To improve one’s skills in a new foreign language, it is important to read texts in that language.</strong> But in order to make learning really effective, these text have to be at the reader’s language level. However, it is difficult to find texts that are close to someone’s knowledge level (A1 to C2).
+  <strong>To improve one’s skills in a new foreign language, it is important to read texts in this language.</strong> But in order to make learning really effective, these text have to be at the reader’s language level. However, it is difficult to find texts that are close to someone’s knowledge level (A1 to C2).
 </p>
 
 <p align="justify"> 
