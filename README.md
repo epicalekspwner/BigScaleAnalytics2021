@@ -158,7 +158,31 @@ Hint: We were thinking about combining the two models and making an average from
 - Either doing a regression model with features (getting someting between 0 to 5) or a classification;
 - The final score would be the average between the score from automl ("convert" them to 0 to 5 if regression) and the score from the model (from the features).
 
+### Milestone 3 - Iterate & Improve
 
+| **Model**                   | **Parameters**                                                      |**Internal Accuracy**|  **Accuracy Aicrowd submission**|
+|----------------------------------------------------------|-------------------------------------------------------------------------------|------------------------|------------|
+**Regression Algo (RA)**   
+| `**Linear regression (1)**`  ||||
+| `**Logistic regression (2)**`    ||||             
+| `**Support vector machine Regression (3)**` ||||
+|||||
+**Classification Algo (CA)**        
+| `**Support vector classifier (1)**`  ||||
+| `**KNNeighbours (2)**`  ||||
+| `**Decision Trees (3)**` ||||
+| `**Random Forest (4)**` ||||
+|||||
+**Google Cloud (GC)** 
+| `**Classification problem (1)**`  ||||
+| `**Classification problem (2)**`  ||||
+| `**Regression problem (3)**` ||||
+|||||
+**Algo combination** 
+| `**GC (1) + GC (2)**`  ||||
+| `**GC (1) + CA (1)**`  ||||
+| `**GC (1) + RA (3)**`  ||||
+|
 
 ### Sources
 
