@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Amazon Sentence Analyzer</title>
+    <h1>Big-Scale Analytics</h1>
+    <h2>Sentence Difficulty Analyzer</h2>
+</head>
+<body>
+
+
+<div class="ml-container">
+		<form action="{{ url_for('predict')}}" method="POST">
+		<p>Enter Your Sentence Here</p>
+		<textarea name="message" rows="4" cols="50"></textarea>
+		<br/>
+		<input type="submit" class="btn-info" value="predict">
+        </form>
+</div>
+
+</body>
+</html>
