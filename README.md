@@ -16,7 +16,7 @@
 </p>
 
 <p align="justify"> 
-  This project aims to build a model for English speakers that <strong>predicts the difficulty of a French written text</strong>. This can be then used, e.g., in a recommendation system, to recommend texts that are appropriate for someone’s language level. If someone is at A1 French level, it is inappropriate to present a text which has a B2 level, as she won’t be able to understand it. Ideally, a text should have many known words and may have a few words that are unknown so that the person can improve.
+  This project aims to build a model for English speakers that <strong>predicts the difficulty of a French written text</strong>. This can be then used, e.g., in a recommendation system, to recommend texts that are appropriate for someone’s language level. If someone is at A1 French level, it is inappropriate to present a text at B2 level, as she won’t be able to understand it. Ideally, a text should have many known words and may have a few words that are unknown so that the person can improve.
 </p>
 
 <p align="justify">
@@ -160,28 +160,30 @@ Hint: We were thinking about combining the two models and making an average from
 
 ### Milestone 3 - Iterate & Improve
 
-| **Model**                   | **Parameters**                                                      |**Internal Accuracy**|  **Accuracy Aicrowd submission**|
+*Param: X = 'PRON','ADP','CCONJ','PROPN','ADV','SCONJ','Sentences_punctuation_nb','Sentences_len','D_cognome','nb_cognates'
+
+| **Model**                   | **Parameters**                                                      |**Internal Accuracy/R² or Google Cloud Precision/Recall/R²**|  **Accuracy Aicrowd submission**|
 |----------------------------------------------------------|-------------------------------------------------------------------------------|------------------------|------------|
 **Regression Algo (RA)**   
-| `**Linear regression (1)**`  ||||
-| `**Logistic regression (2)**`    ||||             
-| `**Support vector machine Regression (3)**` ||||
+| `**Linear regression (1)**`  |param: `None`|R²: 0.31|`None`|
+| `**Logistic regression (2)**`    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.37|`None`|             
+| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=6, epsilon=0.9), round()|R²: 0.46|0.35|
 |||||
 **Classification Algo (CA)**        
-| `**Support vector classifier (1)**`  ||||
-| `**KNNeighbours (2)**`  ||||
-| `**Decision Trees (3)**` ||||
-| `**Random Forest (4)**` ||||
+| `**Support vector classifier (1)**`  |param: C=6|Accuracy: 37%|`None`|
+| `**Logistic Regression (1)**`  |param: 'LR__C': 1, 'LR__max_iter': 1000 |Accuracy: 39.8%|`None`|
+| `**KNNeighbours (2)**`  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 19, 'knn__p': 2, 'knn__weights': 'uniform' |Accuracy: 35.6%|`None`|
+| `**Decision Trees (3)**` |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |Accuracy: 34.8%|`None`|
+| `**Random Forest (4)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'gini', 'RF__n_estimators': 15|Accuracy: 34.6%|`None`|
 |||||
 **Google Cloud (GC)** 
-| `**Classification problem (1)**`  ||||
-| `**Classification problem (2)**`  ||||
-| `**Regression problem (3)**` ||||
+| `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41%| Accuracy: **53.3%**|
+| `**Classification problem (2)**`  |param:`None`|Precision: 60.94% & Recall: 29.96%|`None`|
+| `**Regression problem (3)**` |param: `None`|R²: 0.497|`None`|
 |||||
 **Algo combination** 
-| `**GC (1) + GC (2)**`  ||||
-| `**GC (1) + CA (1)**`  ||||
-| `**GC (1) + RA (3)**`  ||||
+| `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|51.5% (base (2)) & 52.8% (base (1))|
+| `**GC (1) + RA (3)**`  |param: `None`|`None`|Accuracy: 44%|
 |
 
 ### Sources
