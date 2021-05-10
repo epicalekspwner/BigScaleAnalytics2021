@@ -171,10 +171,10 @@ We used several models from basic one (linear regression) to more complex ones (
 |||||
 **Classification Algo (CA)**        
 | `**Support vector classifier (1)**`  |param: C=6|Accuracy: 37%|`None`|
-| `**Logistic Regression (1)**`  |param: 'LR__C': 1, 'LR__max_iter': 1000 |Accuracy: 39.8%|`None`|
-| `**KNNeighbours (2)**`  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 19, 'knn__p': 2, 'knn__weights': 'uniform' |Accuracy: 35.6%|`None`|
-| `**Decision Trees (3)**` |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |Accuracy: 34.8%|`None`|
-| `**Random Forest (4)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'gini', 'RF__n_estimators': 15|Accuracy: 34.6%|`None`|
+| `**Logistic Regression (2)**`  |param: 'LR__C': 1, 'LR__max_iter': 1000 |Accuracy: 39.8%|`None`|
+| `**KNNeighbours (3)**`  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 19, 'knn__p': 2, 'knn__weights': 'uniform' |Accuracy: 35.6%|`None`|
+| `**Decision Trees (4)**` |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |Accuracy: 34.8%|`None`|
+| `**Random Forest (5)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'gini', 'RF__n_estimators': 15|Accuracy: 34.6%|`None`|
 |||||
 **Google Cloud (GC)** 
 | `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41%| Accuracy: **53.3%**|
