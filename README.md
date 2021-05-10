@@ -167,7 +167,7 @@ Hint: We were thinking about combining the two models and making an average from
 **Regression Algo (RA)**   
 | `**Linear regression (1)**`  |param: `None`|R²: 0.31|`None`|
 | `**Logistic regression (2)**`    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.37|`None`|             
-| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=6, epsilon=0.9), round()|R²: 0.46|0.35|
+| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=6, epsilon=0.9), round()|R²: 0.46|Accuracy: 0.35|
 |||||
 **Classification Algo (CA)**        
 | `**Support vector classifier (1)**`  |param: C=6|Accuracy: 37%|`None`|
@@ -182,9 +182,9 @@ Hint: We were thinking about combining the two models and making an average from
 | `**Regression problem (3)**` |param: `None`|R²: 0.497|`None`|
 |||||
 **Algo combination** 
-| `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|51.5% (base (2)) & 52.8% (base (1))|
+| `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|
 | `**GC (1) + RA (3)**`  |param: `None`|`None`|Accuracy: 44%|
-|
+
 
 ### Sources
 
