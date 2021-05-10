@@ -107,13 +107,6 @@ Overall, the dataset is <strong>well balanced</strong> and will therefore <stron
 - *Precision*: 80%
 - *Recall*: 35.29%
 
-You want to try our model? 
-
-When installing google cloud package **DO NOT FORGET to reset environment**
-
-[Click-here](https://github.com/epicalekspwner/BigScaleAnalytics2021/blob/main/BSA_project_AUTOMLv2.ipynb)
-
-
 Confusion matrix: 
 
 ![Confusion matrix](https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png)
@@ -159,6 +152,13 @@ Hint: We were thinking about combining the two models and making an average from
 - The final score would be the average between the score from automl ("convert" them to 0 to 5 if regression) and the score from the model (from the features).
 
 ### Milestone 3 - Iterate & Improve
+
+![am0ngsusxh-45](https://user-images.githubusercontent.com/71261918/117670351-17fcd600-b1a8-11eb-9602-d74bc92eb7ff.gif)
+
+
+
+
+**Our application**: 
 
 We used several models from basic one (linear regression) to more complex ones (GC). From the various models we used the model from Google Cloud Natural language classification model is the BEST with an accuracy on Aicrowd of 53.3%. We tried a few combination but unfortunatly it did not improve our ranking on Aicrowd.
 
