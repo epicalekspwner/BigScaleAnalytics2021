@@ -1,4 +1,4 @@
-sentence,difficulty
+sentence,difficulties
 C'est pour quand ?,A1
 Je pense que c'est bon.,A1
 C'est pas mal.,A1
