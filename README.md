@@ -160,6 +160,8 @@ Hint: We were thinking about combining the two models and making an average from
 
 **Our application**: [!!!!!! Click-here !!!!!!](https://epicalekspwner-bsa2021.uc.r.appspot.com/)
 
+We used the datatset provided by the TAs to do the models (previsously (M2) we used our dataset which was biased)
+
 We used several models from basic one (linear regression) to more complex ones (GC). From the various models we used the model from Google Cloud Natural language classification model is the BEST with an accuracy on Aicrowd of 53.3%. We tried a few combination but unfortunatly it did not improve our ranking on Aicrowd.
 
 | **Model**                   | **Parameters**                                                      |**Internal Accuracy/R² or Google Cloud Precision/Recall/R²**|  **Accuracy Aicrowd submission**|
