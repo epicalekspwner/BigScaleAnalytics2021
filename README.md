@@ -179,9 +179,10 @@ We used several models from basic one (linear regression) to more complex ones (
 | `**Random Forest (5)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'gini', 'RF__n_estimators': 15|Accuracy: 34.6%|`None`|
 |||||
 **Google Cloud (GC)** 
-| `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41%| Accuracy: **53.3%**|
+| `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41%| Accuracy: **51.1%**|
 | `**Classification problem (2)**`  |param:`None`|Precision: 60.94% & Recall: 29.96%|`None`|
 | `**Regression problem (3)**` |param: `None`|R²: 0.497|`None`|
+| `**Classification problem (3)**`  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02%| Accuracy: 51.1%|
 |||||
 **Algo combination** 
 | `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|
