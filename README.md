@@ -220,7 +220,7 @@ The alternatives are the following:
 - (1) Create a columns with the number of cognate present in a sentence
 - Explore the similarity of the two roots using (2) spacy similarity, (3) SequenceMatcher package and finally using (4) Levenshtein distance
 
-The alternatives kept (better results) is the (1).
+The alternatives kept (better results) is the (1) and spacy similarity.
 
 **Deceptive cognates**
 
