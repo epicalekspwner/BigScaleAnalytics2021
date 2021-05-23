@@ -222,6 +222,10 @@ The alternatives are the following:
 
 The alternatives kept (better results) is the (1).
 
+**Deceptive cognates**
+
+We also took into account false friends and created a function that count the number of deceptive cognates in order to integrate it into our models.
+
 ### Sources
 
 
