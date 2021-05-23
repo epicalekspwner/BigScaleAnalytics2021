@@ -164,6 +164,11 @@ We used the datatset provided by the TAs to do the models (previsously (M2) we u
 
 We used several models from basic one (linear regression) to more complex ones (GC). From the various models we used the model from Google Cloud Natural language classification model is the BEST with an accuracy on Aicrowd of 53.3%. We tried a few combination but unfortunatly it did not improve our ranking on Aicrowd.
 
+What did we use as librairies or services?
+
+![ll](https://user-images.githubusercontent.com/71261918/119254444-a7e24d00-bbb6-11eb-85f9-dac19fa68f7d.png)
+
+
 | **Model**                   | **Parameters**                                                      |**Internal Accuracy/R² or Google Cloud Precision/Recall/R²**|  **Accuracy Aicrowd submission**|
 |----------------------------------------------------------|-------------------------------------------------------------------------------|------------------------|------------|
 **Regression Algo (RA)**   
