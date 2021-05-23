@@ -119,11 +119,6 @@ Confusion matrix:
 
 On-going...Models need to be done
 
-- *Model type*: Regression
-- *Test items*:  ___
-- *Precision*:   ___
-- *Recall*:      ___
-
 Features engineering:
 
 |Done| Feature Name | Method |
@@ -197,6 +192,35 @@ We used several models from basic one (linear regression) to more complex ones (
 | `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|
 | `**GC (1) + RA (3)**`  |param: `None`|`None`|Accuracy: 44%|
 
+**Cognates problem**:
+
+We created a list of potential cognates from an initial list of 450k english words. We retrieved all the words with the following suffixes:
+
+- tion
+- able
+- ate
+- e
+- c
+- y
+- ary
+- or
+- a
+- ish
+- ed
+- k
+- t
+
+We ended up with 14k words
+
+Then we used the package deep_translator (GoogleTranslator) in order to translate the list. We ended up with two columns on with the english traduction and one in french.
+
+After we stemmed the two columns in order to get the roots of the elements. After we explored several alternatives (on how to interate the element into our models).
+
+The alternatives are the following:
+- (1) Create a columns with the number of cognate present in a sentence
+- Explore the similarity of the two roots using (2) spacy similarity, (3) SequenceMatcher package and finally using (4) Levenshtein distance
+
+The alternatives kept (better results) is the (1).
 
 ### Sources
 
