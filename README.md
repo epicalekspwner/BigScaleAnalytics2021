@@ -109,7 +109,7 @@
 |✔️| *Cognates*                    |  Return list of 14k possible cognates and the similarity between the two roots (French and English)|
 |❌| *Common words for each category*     |  Creation of list with the most common words for each category.| |
 
-**Graph (a) - Deceptive Cognomes**
+**Graph (a): Deceptive Cognomes**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71261918/114367569-da8f3380-9b7c-11eb-8e36-ec9dfb26e051.PNG" />
