@@ -121,7 +121,9 @@ We can see on the above graph that the more complex a sentence is, the more dece
 
 `Dataset used: TAs' dataset`
 
-![am0ngsusxh-45](https://user-images.githubusercontent.com/71261918/117670351-17fcd600-b1a8-11eb-9602-d74bc92eb7ff.gif)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/71261918/117670351-17fcd600-b1a8-11eb-9602-d74bc92eb7ff.gif" />
+</p>
 
 **Our application**: [!!!!!! Click-here !!!!!!](https://epicalekspwner-bsa2021.uc.r.appspot.com/)
 
