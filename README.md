@@ -128,7 +128,7 @@ We can see on the above graph that the more complex a sentence is, the more dece
 **Our application**: [!!!!!! Click-here !!!!!!](https://epicalekspwner-bsa2021.uc.r.appspot.com/)
 
 
-We used the datatset provided by the TAs to do the models (previsously (M2) we used our dataset which was biased).
+For this version, we used the datatset provided by the TAs to do the models, whereas in Milestone 2 we used our dataset which was biased. 
 
 
 We used several models from basic one (linear regression) to more complex ones (GC). From the various models we used the model from Google Cloud Natural language classification model is the BEST with an accuracy on Aicrowd of 53.3%. We tried a few combination but unfortunatly it did not improve our ranking on Aicrowd.
