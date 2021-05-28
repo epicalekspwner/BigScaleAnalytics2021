@@ -86,7 +86,7 @@
 - *Precision*: 80%
 - *Recall*: 35.29%
 
-🗜️ Confusion matrix: 
+🗜️ **Confusion matrix**
 
 ![Confusion matrix](https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png)
 
