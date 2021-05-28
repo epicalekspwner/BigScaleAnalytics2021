@@ -155,12 +155,12 @@ The idea: when we were young our teachers gave us some "tips" on how to detect c
   <img src="https://user-images.githubusercontent.com/71261918/119940404-6aebd100-bf8f-11eb-8357-8697452d556f.png" />
 </p>
 
-**Deceptive cognates**
+**Deceptive Cognates**
 
 We also took into account false friends and created a function that count the number of deceptive cognates in order to integrate it into our models.
 
 
-**Models evaluation**
+**Models Evaluation**
 
 | **Model**                   | **Parameters**                                                      |**Internal Accuracy/R² or Google Cloud Precision/Recall/R²**|  **Accuracy Aicrowd submission**|**Evaluation**|**Note**|
 |----------------------------------------------------------|-------------------------------------------------------------------------------|------------------------|------------|-----------------|---------|
