@@ -169,7 +169,7 @@ We also took into account false friends and created a function that count the nu
 | `**Random Forest (5)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'entropy', 'RF__n_estimators': 18|F1: 45%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943791-cddf6700-bf93-11eb-8acd-453115e39a29.png)|
 ||||||
 **Google Cloud ⛅️(GC)** 
-| `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41% & 44%| Accuracy: **53.3%**|`None`|![image](https://user-images.githubusercontent.com/71261918/119943928-f4050700-bf93-11eb-9d57-6d096bd3234a.png)|
+| `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41% & F1: 44%| Accuracy: **53.3%**|`None`|![image](https://user-images.githubusercontent.com/71261918/119943928-f4050700-bf93-11eb-9d57-6d096bd3234a.png)|
 | `**Classification problem lemma(2)**`  |param:`None`|Precision: 60.94% & Recall: 29.96% & F1: 40%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944244-50682680-bf94-11eb-8135-759e2c1ce622.png)|
 | `**Regression problem (3)**` |param: `None`|R²: 0.497|`None`|`None`|
 | `**Classification problem (3)**`  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02% & F1: 51%| Accuracy: 51.1%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944124-2e6ea400-bf94-11eb-83b6-c613fb14b760.png)|
