@@ -91,11 +91,12 @@
   <img src="https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png" />
 </p>
 
-
+<p align="justify"> 
 **Note 1**: We can see that the model has difficulties at predicting B2 and C1 levels. One of the reasons might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
-
+</p>
+<p align="justify"> 
 **Note 2**: Our model is super sensible to the length of the sentence. If we put mutiple times a really simple sentence it will end up with a C2 level.we need to reevaluate !
-
+</p>
 ####  **Custom model: Features Engineering**
 
 |Done| Feature Name | Method |
