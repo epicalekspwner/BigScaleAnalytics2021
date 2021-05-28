@@ -210,6 +210,10 @@ We also took into account false friends and created a function that count the nu
 
 ### Sources
 
+#### Cognates
+
+- English word list: https://github.com/dwyl/english-words/blob/master/words_alpha.txt
+- English/French suffixes: 'Code de Traduction' https://www.anglaisfacile.com/exercices/exercice-anglais-2/exercice-anglais-70779.php
 
 #### Dataset
 
