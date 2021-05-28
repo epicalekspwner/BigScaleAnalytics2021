@@ -27,8 +27,6 @@
 - **Milestone 2** (due April 13) - Creating/Evaluating the model
 - **Milestone 3** (due May 10) - Iterate & Improve 
 
-### Milestone 1 - Reading/Thinking & Gathering the data 
-
 ### 📚 Review of the Existing Literature
 
 🥨 **Learning German** 
@@ -76,29 +74,10 @@
 - French specific libraries
 - And more 😉
 
-### 💾 Dataset
-
-[Link](https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit?usp=sharing) (Team Amazon)    
-
-**Size of the dataset**: 1030 sentences  
-**Own contribution**: 960 sentences
-
-🎚️ **Distribution of the levels**    
-
-**A1**: 175 sentences (17%)  
-**A2**: 198 sentences (19%)  
-**B1**: 179 sentences (17%)  
-**B2**: 172 sentences (17%)  
-**C1**: 144 sentences (14%)  
-**C2**: 162 sentences (16%)  
-
-<p align="justify"> 
-Overall, the dataset is <strong>well balanced</strong> and will therefore <strong>prevent the model from being biased</strong> due to under/over representation of one category over another.
-</p>
-
 
 ### Milestone 2 - Creating/Evaluating the model
 
+`Dataset used: Team Amazon dataset`
 
 ####  **First model using: Text Classification in Google Cloud Natural Language Automl**
 
@@ -115,51 +94,38 @@ Confusion matrix:
 
 **Note 2**: Our model is super sensible to the length of the sentence. If we put mutiple times a really simple sentence it will end up with a C2 level.we need to reevaluate !
 
-####  **Second model: Regression or classification using Features Engineering**
-
-On-going...Models need to be done
-
-Features engineering:
+####  **Custom model: Features Engineering**
 
 |Done| Feature Name | Method |
 |---|---------------------         |-------------------------------------------------------------------------|
 |✔️| *Sentences lengths*           |  Return the length of the sentence                             |
 |✔️| *Type of words*               |  Return a dict {"Word": "Type of word"}                        | 
 |✔️| *Number of punctuation*       |  Return the number of punctuation there is in the sentence |
-|✔️| *Deceptive cognates*          |Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
-|✔️| *Cognates*                    | From a list of ~ 370k English words [From here](https://github.com/dwyl/english-words/blob/master/words_alpha.txt), we took the words with specific suffixes (high chance of being cognates + reduced the running time from 7h to less than 1h). We ended up with ~ 13k candidates. Then we translated them into french. After we stemmed both English and French words. After we compared the similarity of the stem. We then obtained a score for each cognate. The score is up to 100 (100 same stems). We then created a function that returns a similarity score, which is the sum of all cognates score present in the sentence and deceptive cognates score are deducted. Idea came from: the french/english learning tools [Here](https://www.anglaisfacile.com/exercices/exercice-anglais-2/exercice-anglais-70779.php).|
+|✔️| *Deceptive cognates*          |  Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
+|✔️| *Cognates*                    |  Return list of 14k possible cognates and the similarity between the two roots (french and english)|
 |❌| *Common words for each category*     |  Creation of list with the most common words for each category.| |
 
-Deceptive cognomes graphic (a):
-
+**Deceptive cognomes graphic (a):**
 
 ![Avg_Dcognate_plot](https://user-images.githubusercontent.com/71261918/114367569-da8f3380-9b7c-11eb-8e36-ec9dfb26e051.PNG)
 
 We can see on the above graph that the more complex a sentence is, the more deceptive cognates (aka false friends) there are.
 
-####  **Final model: Combination of the two models**
-
-On-going...
-
-Hint: We were thinking about combining the two models and making an average from the two levels. We are still thinking about:
-
-- Either doing a regression model with features (getting someting between 0 to 5) or a classification;
-- The final score would be the average between the score from automl ("convert" them to 0 to 5 if regression) and the score from the model (from the features).
-
 ### Milestone 3 - Iterate & Improve
+
+`Dataset used: TAs' dataset`
 
 ![am0ngsusxh-45](https://user-images.githubusercontent.com/71261918/117670351-17fcd600-b1a8-11eb-9602-d74bc92eb7ff.gif)
 
-
-
-
 **Our application**: [!!!!!! Click-here !!!!!!](https://epicalekspwner-bsa2021.uc.r.appspot.com/)
 
-We used the datatset provided by the TAs to do the models (previsously (M2) we used our dataset which was biased)
+
+==> We used the datatset provided by the TAs to do the models (previsously (M2) we used our dataset which was biased)
+
 
 We used several models from basic one (linear regression) to more complex ones (GC). From the various models we used the model from Google Cloud Natural language classification model is the BEST with an accuracy on Aicrowd of 53.3%. We tried a few combination but unfortunatly it did not improve our ranking on Aicrowd.
 
-`What did we use as librairies or services?`
+**What did we use as librairies or services?**
 - Cloud services: Google AutoML (Regression and NLP), Google colab
 - NLP Librairies: Spacy(Multi-langual package), NLTK (Multi-langual package), Camembert (French package)
 - Machine Learning librairies: SKlearn
@@ -168,6 +134,16 @@ We used several models from basic one (linear regression) to more complex ones (
 **General architecture:**
 
 ![image](https://user-images.githubusercontent.com/71261918/119941219-9a4f0d80-bf90-11eb-9c0a-ad5392bb9da6.png)
+
+**Cognates problem**:
+
+The idea: when we were young our teachers gave us some "tips" on how to detect cognates from french to english. We had to look for the suffixes...
+
+![image](https://user-images.githubusercontent.com/71261918/119940404-6aebd100-bf8f-11eb-8357-8697452d556f.png)
+
+**Deceptive cognates**
+
+We also took into account false friends and created a function that count the number of deceptive cognates in order to integrate it into our models.
 
 
 **Models evaluation**
@@ -218,6 +194,7 @@ We also took into account false friends and created a function that count the nu
 
 - English word list: https://github.com/dwyl/english-words/blob/master/words_alpha.txt
 - English/French suffixes: 'Code de Traduction' https://www.anglaisfacile.com/exercices/exercice-anglais-2/exercice-anglais-70779.php
+- Deceptive cognates: 
 
 #### Dataset
 
