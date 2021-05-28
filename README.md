@@ -153,12 +153,12 @@ We also took into account false friends and created a function that count the nu
 **Regression Algo (RA) 📈 📉**   
 | `**Linear regression (1)**`  |param: `None`|R²: 0.31|`None`|
 | `**Logistic regression (2)**`    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.37|`None`|             
-| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=6, epsilon=0.9), round()|R²: 0.46|Accuracy: 0.49|
+| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=5, epsilon=0.8), round()|R²: 0.46|Accuracy: 0.49|
 |||||
 **Regression Algo Camembert package (RACAM) 📈 📉 🧀**   
 | `**Linear regression (1)**`  |param: `None`|R²: 0.36|`None`|
 | `**Logistic regression (2)**`    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.41|`None`|             
-| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=6, epsilon=0.9), round()|R²: 0.54|`None`|
+| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=1, epsilon=1), round()|R²: 0.54|`None`|
 |||||
 **Classification Algo 📁📂(CA)**        
 | `**Support vector classifier (1)**`  |param: C=6|Accuracy: 41%|`None`|
