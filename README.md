@@ -135,7 +135,7 @@ For this version, we used the datatset provided by the TAs to do the models, whe
 We used several models from basic one (linear regression) to more complex ones (GC). From the various models, we used the model from <strong>Google Cloud Natural Language Classification</strong> which is the <strong>best</strong> model in terms of accuracy on Aicrowd with an accuracy of 53.3%. We tried a few combinations but unfortunatly it did not improve our ranking on Aicrowd.
 </p>
 
-**What did we use as librairies or services?**
+**What Did We Use as Librairies or Services?**
 - Cloud services: Google AutoML (Regression and NLP), Google colab
 - NLP Librairies: Spacy(Multi-langual package), NLTK (Multi-langual package), Camembert (French package)
 - Machine Learning librairies: SKlearn
