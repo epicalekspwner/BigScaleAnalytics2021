@@ -111,7 +111,9 @@
 
 **Deceptive cognomes graphic (a):**
 
-![Avg_Dcognate_plot](https://user-images.githubusercontent.com/71261918/114367569-da8f3380-9b7c-11eb-8e36-ec9dfb26e051.PNG)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/71261918/114367569-da8f3380-9b7c-11eb-8e36-ec9dfb26e051.PNG" />
+</p>
 
 We can see on the above graph that the more complex a sentence is, the more deceptive cognates (aka false friends) there are.
 
