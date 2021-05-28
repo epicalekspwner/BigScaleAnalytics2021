@@ -95,7 +95,7 @@
  <strong>Note 1</strong>: We can see that the model has difficulties at predicting B2 and C1 levels. One of the reasons might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
 </p>
 <p align="justify"> 
-<strong>Note 2<strong>: Our model is super sensible to the length of the sentence. If we put mutiple times a really simple sentence it will end up with a C2 level.we need to reevaluate !
+<strong>Note 2</strong>: Our model is super sensible to the length of the sentence. If we put mutiple times a really simple sentence it will end up with a C2 level.we need to reevaluate !
 </p>
 ####  **Custom model: Features Engineering**
 
