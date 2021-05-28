@@ -163,26 +163,32 @@ We used several models from basic one (linear regression) to more complex ones (
 - Cloud services: Google AutoML (Regression and NLP), Google colab
 - NLP Librairies: Spacy(Multi-langual package), NLTK (Multi-langual package), Camembert (French package)
 - Machine Learning librairies: SKlearn
-- API: Flask
+- App: Flask
 
 ![ll](https://user-images.githubusercontent.com/71261918/119254444-a7e24d00-bbb6-11eb-85f9-dac19fa68f7d.png)
 
 
 | **Model**                   | **Parameters**                                                      |**Internal Accuracy/R² or Google Cloud Precision/Recall/R²**|  **Accuracy Aicrowd submission**|
 |----------------------------------------------------------|-------------------------------------------------------------------------------|------------------------|------------|
-**Regression Algo (RA)**   
+**Regression Algo (RA) 📈 📉**   
 | `**Linear regression (1)**`  |param: `None`|R²: 0.31|`None`|
 | `**Logistic regression (2)**`    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.37|`None`|             
-| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=6, epsilon=0.9), round()|R²: 0.46|Accuracy: 0.35|
+| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=6, epsilon=0.9), round()|R²: 0.46|Accuracy: 0.49|
 |||||
-**Classification Algo (CA)**        
-| `**Support vector classifier (1)**`  |param: C=6|Accuracy: 37%|`None`|
-| `**Logistic Regression (2)**`  |param: 'LR__C': 1, 'LR__max_iter': 1000 |Accuracy: 39.8%|`None`|
-| `**KNNeighbours (3)**`  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 19, 'knn__p': 2, 'knn__weights': 'uniform' |Accuracy: 35.6%|`None`|
-| `**Decision Trees (4)**` |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |Accuracy: 34.8%|`None`|
-| `**Random Forest (5)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'gini', 'RF__n_estimators': 15|Accuracy: 34.6%|`None`|
+**Regression Algo Camembert package (RACAM) 📈 📉 🧀**   
+| `**Linear regression (1)**`  |param: `None`|R²: 0.36|`None`|
+| `**Logistic regression (2)**`    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.41|`None`|             
+| `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=6, epsilon=0.9), round()|R²: 0.54|`None`|
 |||||
-**Google Cloud (GC)** 
+**Classification Algo 📁📂(CA)**        
+| `**Support vector classifier (1)**`  |param: C=6|Accuracy: 41%|`None`|
+| `**Support vector classifier Camembert (1.2)**`  |param: C=6|Accuracy: 46%|`None`|
+| `**Logistic Regression (2)**`  |param: 'LR__C': 6, 'LR__max_iter': 1000 |Accuracy: 41%|`None`|
+| `**KNNeighbours (3)**`  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 17, 'knn__p': 1, 'knn__weights': 'uniform' |Accuracy: 39%|`None`|
+| `**Decision Trees (4)**` |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |Accuracy: 36%|`None`|
+| `**Random Forest (5)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'entropy', 'RF__n_estimators': 18|Accuracy: 36%|`None`|
+|||||
+**Google Cloud ⛅️(GC)** 
 | `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41%| Accuracy: **53.3%**|
 | `**Classification problem (2)**`  |param:`None`|Precision: 60.94% & Recall: 29.96%|`None`|
 | `**Regression problem (3)**` |param: `None`|R²: 0.497|`None`|
@@ -194,33 +200,9 @@ We used several models from basic one (linear regression) to more complex ones (
 
 **Cognates problem**:
 
-We created a list of potential cognates from an initial list of 450k english words. We retrieved all the words with the following suffixes:
+The idea: when we were young our teachers gave us some "tips" on how to detect cognates from french to english. We had to look for the suffixes...
 
-- tion
-- able
-- ate
-- e
-- c
-- y
-- ary
-- or
-- a
-- ish
-- ed
-- k
-- t
-
-We ended up with 14k words
-
-Then we used the package deep_translator (GoogleTranslator) in order to translate the list. We ended up with two columns on with the english traduction and one in french.
-
-After we stemmed the two columns in order to get the roots of the elements. After we explored several alternatives (on how to interate the element into our models).
-
-The alternatives are the following:
-- (1) Create a columns with the number of cognate present in a sentence
-- Explore the similarity of the two roots using (2) spacy similarity, (3) SequenceMatcher package and finally using (4) Levenshtein distance
-
-The alternatives kept (better results) is the (1) and spacy similarity.
+![image](https://user-images.githubusercontent.com/71261918/119940404-6aebd100-bf8f-11eb-8357-8697452d556f.png)
 
 **Deceptive cognates**
 
