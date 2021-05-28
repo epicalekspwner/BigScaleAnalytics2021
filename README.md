@@ -161,18 +161,18 @@ We also took into account false friends and created a function that count the nu
 | `**Support vector machine Regression (3)**` |param: StandardScaler(), SVR(C=1, epsilon=1), round()|R²: 0.54|`None`|`None`|
 ||||||
 **Classification Algo 📁📂(CA)**        
-| `**Support vector classifier (1)**`  |param: C=6|Accuracy: 41%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943463-5dd0e100-bf93-11eb-9d06-b278cb46eb40.png)|
-| `**Support vector classifier Camembert (1.2)**`  |param: C=3|Accuracy: 46%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943653-9cff3200-bf93-11eb-9214-45b9a0b23c56.png)|
-| `**Logistic Regression (2)**`  |param: 'LR__C': 6, 'LR__max_iter': 1000 |Accuracy: 41%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943715-b1dbc580-bf93-11eb-83c7-c9dfa600d3d0.png)|
-| `**KNNeighbours (3)**`  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 17, 'knn__p': 1, 'knn__weights': 'uniform' |Accuracy: 39%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943752-bbfdc400-bf93-11eb-8fba-0f16ea7ce4f7.png)|
-| `**Decision Trees (4)**` |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |Accuracy: 36%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943773-c4ee9580-bf93-11eb-9c6f-253fba7dea2b.png)|
-| `**Random Forest (5)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'entropy', 'RF__n_estimators': 18|Accuracy: 36%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943791-cddf6700-bf93-11eb-8acd-453115e39a29.png)|
+| `**Support vector classifier (1)**`  |param: C=6|F1: 41%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943463-5dd0e100-bf93-11eb-9d06-b278cb46eb40.png)|
+| `**Support vector classifier Camembert (1.2)**`  |param: C=3|F1: 45%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943653-9cff3200-bf93-11eb-9214-45b9a0b23c56.png)|
+| `**Logistic Regression (2)**`  |param: 'LR__C': 6, 'LR__max_iter': 1000 |F1: 39%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943715-b1dbc580-bf93-11eb-83c7-c9dfa600d3d0.png)|
+| `**KNNeighbours (3)**`  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 17, 'knn__p': 1, 'knn__weights': 'uniform' |F1: 38%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943752-bbfdc400-bf93-11eb-8fba-0f16ea7ce4f7.png)|
+| `**Decision Trees (4)**` |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |F1: 33%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943773-c4ee9580-bf93-11eb-9c6f-253fba7dea2b.png)|
+| `**Random Forest (5)**` |param: 'RF__bootstrap': True, 'RF__criterion': 'entropy', 'RF__n_estimators': 18|F1: 45%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943791-cddf6700-bf93-11eb-8acd-453115e39a29.png)|
 ||||||
 **Google Cloud ⛅️(GC)** 
-| `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41%| Accuracy: **53.3%**|`None`|![image](https://user-images.githubusercontent.com/71261918/119943928-f4050700-bf93-11eb-9d57-6d096bd3234a.png)|
-| `**Classification problem lemma(2)**`  |param:`None`|Precision: 60.94% & Recall: 29.96%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944244-50682680-bf94-11eb-8135-759e2c1ce622.png)|
+| `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41% & 44%| Accuracy: **53.3%**|`None`|![image](https://user-images.githubusercontent.com/71261918/119943928-f4050700-bf93-11eb-9d57-6d096bd3234a.png)|
+| `**Classification problem lemma(2)**`  |param:`None`|Precision: 60.94% & Recall: 29.96% & F1: 40%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944244-50682680-bf94-11eb-8135-759e2c1ce622.png)|
 | `**Regression problem (3)**` |param: `None`|R²: 0.497|`None`|`None`|
-| `**Classification problem (3)**`  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02%| Accuracy: 51.1%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944124-2e6ea400-bf94-11eb-83b6-c613fb14b760.png)|
+| `**Classification problem (3)**`  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02% & F1: 51%| Accuracy: 51.1%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944124-2e6ea400-bf94-11eb-83b6-c613fb14b760.png)|
 ||||||
 **Algo combination** 
 | `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|`None`|
