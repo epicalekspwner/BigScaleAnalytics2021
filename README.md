@@ -87,8 +87,10 @@
 - Recall: **35.29%**
 
 🗜️ **Confusion matrix**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png" />
+</p>
 
-![Confusion matrix](https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png)
 
 **Note 1**: We can see that the model has difficulties at predicting B2 and C1 levels. One of the reasons might be the assessment of these levels by our team. One solution could be reevaluating these two levels more carefully.
 
