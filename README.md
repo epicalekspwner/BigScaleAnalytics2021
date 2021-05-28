@@ -141,13 +141,13 @@ We used several models from basic one (linear regression) to more complex ones (
 - Machine Learning librairies: **Scikit-Learn**
 - App: **Flask**
 
-**General Architecture**
+📐**General Architecture**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71261918/119941219-9a4f0d80-bf90-11eb-9c0a-ad5392bb9da6.png" />
 </p>
 
-**Cognates Problem**
+🧠**Cognates Problem**
 
 The idea: when we were young our teachers gave us some "tips" on how to detect cognates from french to english. We had to look for the suffixes...
 
@@ -155,12 +155,12 @@ The idea: when we were young our teachers gave us some "tips" on how to detect c
   <img src="https://user-images.githubusercontent.com/71261918/119940404-6aebd100-bf8f-11eb-8357-8697452d556f.png" />
 </p>
 
-**Deceptive Cognates**
+🧠**Deceptive Cognates**
 
 We also took into account false friends and created a function that count the number of deceptive cognates in order to integrate it into our models.
 
 
-**Models Evaluation**
+🌡️**Models Evaluation**
 
 | **Model**                   | **Parameters**                                                      |**Internal Accuracy/R² or Google Cloud Precision/Recall/R²**|  **Accuracy Aicrowd submission**|**Evaluation**|**Note**|
 |----------------------------------------------------------|-------------------------------------------------------------------------------|------------------------|------------|-----------------|---------|
