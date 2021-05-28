@@ -107,7 +107,7 @@
 |✔️| *Number of punctuation*       |  Return the number of punctuation there is in the sentence |
 |✔️| *Deceptive cognates*          |  Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
 |✔️| *Cognates*                    |  Return list of 14,000 possible cognates and the similarity between the two roots (French and English)|
-|❌| *Common words for each category*     |  Creation of list with the most common words for each category| |
+|✔️| *Common words for each category*     |  Creation of list with the most common words for each category| |
 
 **Graph (a): Deceptive Cognomes**
 
