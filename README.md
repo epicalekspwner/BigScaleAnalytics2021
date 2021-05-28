@@ -175,8 +175,8 @@ We also took into account false friends and created a function that count the nu
 | `**Classification problem (3)**`  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02%| Accuracy: 51.1%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944124-2e6ea400-bf94-11eb-83b6-c613fb14b760.png)|
 ||||||
 **Algo combination** 
-| `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|
-| `**GC (1) + RA (3)**`  |param: `None`|`None`|Accuracy: 44%|
+| `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|`None`|
+| `**GC (1) + RA (3)**`  |param: `None`|`None`|Accuracy: 44%|`None`|
 
 **Cognates problem**:
 
