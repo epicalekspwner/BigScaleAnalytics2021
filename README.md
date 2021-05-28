@@ -106,7 +106,7 @@
 |✔️| *Type of words*               |  Return a dict {"Word": "Type of word"}                        | 
 |✔️| *Number of punctuation*       |  Return the number of punctuation there is in the sentence |
 |✔️| *Deceptive cognates*          |  Return the number of deceptive cognomes there is in the sentence (see graph (a)) | 
-|✔️| *Cognates*                    |  Return list of 14k possible cognates and the similarity between the two roots (french and english)|
+|✔️| *Cognates*                    |  Return list of 14k possible cognates and the similarity between the two roots (French and English)|
 |❌| *Common words for each category*     |  Creation of list with the most common words for each category.| |
 
 **Deceptive cognomes graphic (a):**
