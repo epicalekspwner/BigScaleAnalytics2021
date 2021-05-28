@@ -165,8 +165,12 @@ We used several models from basic one (linear regression) to more complex ones (
 - Machine Learning librairies: SKlearn
 - App: Flask
 
-![ll](https://user-images.githubusercontent.com/71261918/119254444-a7e24d00-bbb6-11eb-85f9-dac19fa68f7d.png)
+**General architecture:**
 
+![image](https://user-images.githubusercontent.com/71261918/119941219-9a4f0d80-bf90-11eb-9c0a-ad5392bb9da6.png)
+
+
+**Models evaluation**
 
 | **Model**                   | **Parameters**                                                      |**Internal Accuracy/R² or Google Cloud Precision/Recall/R²**|  **Accuracy Aicrowd submission**|
 |----------------------------------------------------------|-------------------------------------------------------------------------------|------------------------|------------|
