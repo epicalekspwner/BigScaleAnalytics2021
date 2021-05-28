@@ -178,15 +178,6 @@ We also took into account false friends and created a function that count the nu
 | `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|`None`|
 | `**GC (1) + RA (3)**`  |param: `None`|`None`|Accuracy: 44%|`None`|
 
-**Cognates problem**:
-
-The idea: when we were young our teachers gave us some "tips" on how to detect cognates from french to english. We had to look for the suffixes...
-
-![image](https://user-images.githubusercontent.com/71261918/119940404-6aebd100-bf8f-11eb-8357-8697452d556f.png)
-
-**Deceptive cognates**
-
-We also took into account false friends and created a function that count the number of deceptive cognates in order to integrate it into our models.
 
 ### Sources
 
