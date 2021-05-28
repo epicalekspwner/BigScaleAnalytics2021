@@ -170,11 +170,9 @@ We also took into account false friends and created a function that count the nu
 ||||||
 **Google Cloud ⛅️(GC)** 
 | `**Classification problem (1)**`  |param: `None` |Precision: 58.51% & Recall: 35.41%| Accuracy: **53.3%**|`None`|![image](https://user-images.githubusercontent.com/71261918/119943928-f4050700-bf93-11eb-9d57-6d096bd3234a.png)|
-
 | `**Classification problem lemma(2)**`  |param:`None`|Precision: 60.94% & Recall: 29.96%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944244-50682680-bf94-11eb-8135-759e2c1ce622.png)|
 | `**Regression problem (3)**` |param: `None`|R²: 0.497|`None`|`None`|
-| `**Classification problem (3)**`  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02%| Accuracy: 51.1%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944124-2e6ea400-bf94-11eb-83b6-c613fb14b760.png)
-|
+| `**Classification problem (3)**`  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02%| Accuracy: 51.1%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944124-2e6ea400-bf94-11eb-83b6-c613fb14b760.png)|
 ||||||
 **Algo combination** 
 | `**GC (1) + GC (2)**`  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|
