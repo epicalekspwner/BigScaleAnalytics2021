@@ -185,7 +185,8 @@ We also took into account false friends and created a function that count the nu
 
 - English word list: https://github.com/dwyl/english-words/blob/master/words_alpha.txt
 - English/French suffixes: 'Code de Traduction' https://www.anglaisfacile.com/exercices/exercice-anglais-2/exercice-anglais-70779.php
-- Deceptive cognates: 
+- Deceptive cognates: https://www.laurentbloch.net/MySpip3/Faux-amis-Deceptive-Cognates
+- French stop words (We did some modification and removed/added some element): https://github.com/stopwords-iso/stopwords-fr/blob/master/stopwords-fr.txt
 
 #### Dataset
 
