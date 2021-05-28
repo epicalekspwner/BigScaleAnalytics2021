@@ -132,7 +132,7 @@ For this version, we used the datatset provided by the TAs to do the models, whe
 </p>
 
 <p align="justify">
-We used several models from basic one (linear regression) to more complex ones (GC). From the various models, we used the model from Google Cloud Natural Language Classification which is the <strong>best</strong> model in terms of accuracy on Aicrowd with an accuracy of 53.3%. We tried a few combinations but unfortunatly it did not improve our ranking on Aicrowd.
+We used several models from basic one (linear regression) to more complex ones (GC). From the various models, we used the model from <strong>Google Cloud Natural Language Classification</strong> which is the <strong>best</strong> model in terms of accuracy on Aicrowd with an accuracy of 53.3%. We tried a few combinations but unfortunatly it did not improve our ranking on Aicrowd.
 </p>
 
 **What did we use as librairies or services?**
