@@ -79,14 +79,14 @@
 
 `Dataset used: Team Amazon dataset`
 
-####  **First model using: Text Classification in Google Cloud Natural Language Automl**
+####  **First Model Using Text Classification in Google Cloud Natural Language Automl**
 
 - Model type: **Single-label classification**
 - Test items: **102**
 - Precision: **80%**
 - Recall: **35.29%**
 
-🗜️ **Confusion matrix**
+🗜️ **Confusion Matrix**
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71261918/114360514-643b0300-9b75-11eb-9e1f-ae019275a54b.png" />
 </p>
@@ -98,7 +98,7 @@
 <strong>Note 2</strong>: Our model is super sensible to the length of the sentence. If we put mutiple times a pretty simple sentence, it could end up with up to a C2 level. We need to reinvestigate this concern further!
 </p>
 
-####  **Custom model: Features Engineering**
+####  **Custom Model: Features Engineering**
 
 |Done| Feature Name | Method |
 |---|---------------------         |-------------------------------------------------------------------------|
@@ -109,7 +109,7 @@
 |✔️| *Cognates*                    |  Return list of 14k possible cognates and the similarity between the two roots (French and English)|
 |❌| *Common words for each category*     |  Creation of list with the most common words for each category.| |
 
-**Deceptive cognomes graphic (a):**
+**Graph (a) - Deceptive Cognomes**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71261918/114367569-da8f3380-9b7c-11eb-8e36-ec9dfb26e051.PNG" />
