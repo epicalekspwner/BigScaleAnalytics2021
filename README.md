@@ -138,8 +138,8 @@ We used several models from basic one (linear regression) to more complex ones (
 **What Did We Use as Librairies or Services?**
 - Cloud services: **Google AutoML** (Regression and NLP), **Google Colab**, **Google App Engine**
 - NLP Librairies: **Spacy** (Multi-langual package), **NLTK** (Multi-langual package), **Camembert** (French package)
-- Machine Learning librairies: **SKlearn**
-- App: Flask
+- Machine Learning librairies: **Scikit-Learn**
+- App: **Flask**
 
 **General architecture:**
 
