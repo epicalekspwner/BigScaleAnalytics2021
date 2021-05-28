@@ -162,7 +162,7 @@ We also took into account false friends and created a function that count the nu
 |||||
 **Classification Algo 📁📂(CA)**        
 | `**Support vector classifier (1)**`  |param: C=6|Accuracy: 41%|`None`|
-| `**Support vector classifier Camembert (1.2)**`  |param: C=6|Accuracy: 46%|`None`|
+| `**Support vector classifier Camembert (1.2)**`  |param: C=3|Accuracy: 46%|`None`|
 | `**Logistic Regression (2)**`  |param: 'LR__C': 6, 'LR__max_iter': 1000 |Accuracy: 41%|`None`|
 | `**KNNeighbours (3)**`  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 17, 'knn__p': 1, 'knn__weights': 'uniform' |Accuracy: 39%|`None`|
 | `**Decision Trees (4)**` |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |Accuracy: 36%|`None`|
