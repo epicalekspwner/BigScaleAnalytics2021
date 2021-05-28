@@ -81,10 +81,10 @@
 
 ####  **First model using: Text Classification in Google Cloud Natural Language Automl**
 
-- *Model type*: Single-label classification
-- *Test items*: 102
-- *Precision*: 80%
-- *Recall*: 35.29%
+- Model type: **Single-label classification**
+- Test items: **102**
+- Precision: **80%**
+- Recall: **35.29%**
 
 🗜️ **Confusion matrix**
 
