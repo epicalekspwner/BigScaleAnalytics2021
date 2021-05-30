@@ -61,6 +61,15 @@
   <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_3.png" />
 </p>
 
+**Backend Error Page**
+
+- Warning to inform the user that the analysis could not be performed because there is a malfunction in the backend
+- Invite the user to try to perform the analysis again later as he cannot do more at the moment
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_4.png" />
+</p>
+
 
 ### Milestone 1 - Reading/Thinking & Gathering the Data
 
