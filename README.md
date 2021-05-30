@@ -144,7 +144,7 @@ We used several models from basic one (linear regression) to more complex ones (
 📐 **General Architecture**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71261918/119941219-9a4f0d80-bf90-11eb-9c0a-ad5392bb9da6.png" />
+  <img src="https://user-images.githubusercontent.com/71261918/120098462-66155180-c136-11eb-87dd-c488720e6f31.png" />
 </p>
 
 🧠 **Cognates Problem**
