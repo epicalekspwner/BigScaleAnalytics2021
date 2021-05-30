@@ -1,0 +1,146 @@
+English	Français
+abuse	insulter
+academic	universitaire
+accomodate	loger
+actual	réel
+actual	effectif
+affluence	richesse
+apology	excuses
+assume	supposer
+axe	hache
+basic	élémentaire
+billion	milliard
+charge	faire payer
+consider	envisager
+check	contrôle
+decade	décennie
+deceive	tromper
+delay	retard
+deserve	mériter
+demonstration	manifestation
+digital	numérique
+disagreement	différend
+editor	directeur
+eventually	finalement
+expertise	compétence
+extra	supplémentaire
+global	mondial
+fortunate	chanceux
+habit	habitude
+hazard	danger
+chance	hasard
+grand	grandiose
+large	grand
+lecture	conférence
+library	bibliothèque
+location	emplacement
+mechanic	mécanicien
+medicine	médicament
+notice	avis
+notice	préavis
+novel	roman
+obfuscation	obscurcissement
+opportunity	occasion
+partition	séparation
+petrol	essence
+gas	essence
+photograph	photographie
+phrase	locution
+place	endroit
+positive	catégorique
+preservative	conservateur
+prevent	empêcher
+proper	adéquat
+proprietary	privé
+recover	se rétablir
+refuse	déchets
+regard	considérer
+relative	parent
+relevant	pertinent
+relieve	soulager
+resume	recommencer
+route	itinéraire
+rude	grossier
+scheme	plan
+sensible	raisonnable
+socket	douille
+store	grand magasin
+supply	fournir
+survey	examiner
+translation	traduction
+versatile	adaptable
+take advantage	abuser
+academicism	académisme
+prepare	accomoder
+current	actuel
+effective	efficace
+rush	affluence
+praise	apologie
+take on	assumer
+axis	axe
+alkaline	basique
+trillion	billion
+load	charger
+regard	considérer
+strong	solide
+cheque	chèque
+ten days	décade
+disappoint	décevoir
+time limit	délai
+serve	desservir
+clear away	desservir
+proof	démonstration
+digital	digital
+annoyance	désagrément
+publisher	éditeur
+possibly	éventuellement
+expert’s report	expertise
+first-rate	extra
+total	global
+rich	fortuné
+dress	habit
+chance	hasard
+luck	chance
+large	grand
+broad	large
+reading	lecture
+book shop	librairie
+renting	location
+engineering	mécanique
+doctor	médecin
+note	notice
+instruction	notice
+short story	nouvelle
+offend	offusquer
+oportuneness	opportunité
+musical score	partition
+oil	pétrole
+petroleum	pétrole
+photographer	photographe
+sentence	phrase
+square	place
+definite	positif
+positive	positif
+condom	préservatif
+warn	prévenir
+clean	propre
+owner	propriétaire
+cover	recouvrir
+refusal	refus
+look at	regarder
+connected with	relatif à
+stand up again	relever
+raise	relever
+sum up	résumer
+road	route
+rough	rude
+hard	rude
+sketch	schéma
+sensitive	sensible
+sock	socquette
+blind	store
+shade	store
+implore	supplier
+supervise	surveiller
+translation	translation géométrique
+capricious	versatile
