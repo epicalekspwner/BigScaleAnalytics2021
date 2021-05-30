@@ -236,6 +236,8 @@ We also took into account false friends and created a function that count the nu
 
 ### ✔️ Final Application
 
+The final model we used in our application is the GC (1)
+
 **Home Page**
 
 - Eye-catcher
