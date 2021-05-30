@@ -23,61 +23,9 @@
   This project is <strong>iterative</strong> and will be conducted in <strong>multiple milestones</strong> that are due throughout the semester:
 </p>
 
-### AIcrowd Final result
+### 🎯 AIcrowd Final result
 
 ![image](https://user-images.githubusercontent.com/71261918/120109334-464b5100-c169-11eb-93fa-e9b2d4bdce3f.png)
-
-
-<p align="justify">
- The best model we got was the GC (1): AutoML Natural Language (param: `None`)
-</p>
-
-
-### ✔️ Final Application
-
-**Home Page**
-
-- Eye-catcher
-- Input field for the sentence to be analysed (processed when "Predict" is clicked or deleted when "Reset" is clicked)
-- Brief presentation of the project
-- Direct link to our team's Github repo 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_1.png" />
-</p>
-
-**Result Page**
-
-- Input sentence and its translation
-- Predicted level of difficulty with its corresponding probability
-- Prediction matrix containing the remaining levels and their respective probabilities
-- Explaination of the different levels
-- Dependency parse visualizer 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_2.png" />
-</p>
-
-**Inexistant Input Error Page**
-
-- Warning to inform the user that the analysis could not be performed because no sentence was entered in the field provided
-- Input field to continue without having to return to the home page to be able to enter a sentence 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_3.png" />
-</p>
-
-**Backend Error Page**
-
-- Warning to inform the user that the analysis could not be performed because there is a malfunction in the backend
-- Invite the user to try to perform the analysis again later as he cannot do more at the moment
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_owo.png" />
-</p>
-
-
-### Milestone 1 - Reading/Thinking & Gathering the Data
 
 ### 📚 Review of the Existing Literature
 
@@ -89,6 +37,7 @@
 
 🐟 **Learning Portuguese**
 - [Curto, Pedro & Mamede, Nuno & Baptista, Jorge. 2015. "Automatic text difficulty classifier." *Assisting the selection of adequate reading materials for European Portuguese teaching. Proceedings of CSEDU*: 36-44.](https://www.inesc-id.pt/publications/11043/pdf)
+
 
 ### 💭 How Do We Intend to Solve the Problem?
 
@@ -126,7 +75,7 @@
 - French specific libraries
 - And more 😉
 
-### Milestone 2 - Creating/Evaluating the Model
+### 🤘 First iteration: Creating/Evaluating the Model
 
 `Dataset used: Team Amazon dataset`
 
@@ -168,7 +117,7 @@
 
 We can see on the above graph that the more complex a sentence is, the more deceptive cognates (aka false friends) there are.
 
-### Milestone 3 - Iterate & Improve
+### 🤘🤘 Second iteration: Iterate & Improve
 
 `Dataset used: TAs' dataset`
 
@@ -205,6 +154,7 @@ We used several models from basic one (linear regression) to more complex ones (
 - NLP Librairies: **Spacy** (Multi-langual package), **NLTK** (Multi-langual package), **Camembert** (French package)
 - Machine Learning librairies: **Scikit-Learn**
 - App: **Flask + Python**
+
 
 📐 **General Architecture**
 
@@ -257,18 +207,73 @@ We also took into account false friends and created a function that count the nu
 | **`GC (1) + GC (2)`**  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|`None`|Not as good as expected. Maybe we should have used the probabilities given in order to combined the two models because here we only based the combination on the confusion matrix results.|
 | **`GC (1) + RA (3)`**  |param: `None`|`None`|Accuracy: 44%|`None`|`None`|
 
-### Team work repartition
+<p align="center">
+![image](https://user-images.githubusercontent.com/71261918/120109708-df2e9c00-c16a-11eb-913b-f35b2b577f07.png)
+ </p>
+ 
+ 
+ <p align="center">
+![image](https://user-images.githubusercontent.com/71261918/120109715-e48be680-c16a-11eb-8930-0db37173eac1.png)
+</p>
 
-Aleksandar:
+---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+### ✔️ Final Application
+
+**Home Page**
+
+- Eye-catcher
+- Input field for the sentence to be analysed (processed when "Predict" is clicked or deleted when "Reset" is clicked)
+- Brief presentation of the project
+- Direct link to our team's Github repo 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_1.png" />
+</p>
+
+**Result Page**
+
+- Input sentence and its translation
+- Predicted level of difficulty with its corresponding probability
+- Prediction matrix containing the remaining levels and their respective probabilities
+- Explaination of the different levels
+- Dependency parse visualizer 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_2.png" />
+</p>
+
+**Inexistant Input Error Page**
+
+- Warning to inform the user that the analysis could not be performed because no sentence was entered in the field provided
+- Input field to continue without having to return to the home page to be able to enter a sentence 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_3.png" />
+</p>
+
+**Backend Error Page**
+
+- Warning to inform the user that the analysis could not be performed because there is a malfunction in the backend
+- Invite the user to try to perform the analysis again later as he cannot do more at the moment
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_owo.png" />
+</p>
+
+
+### 🧛🧛🧛‍♀️ Team work repartition
+
+**Aleksandar**:
 - Application (flask, UI, etc)
 - Google App engine
 
-Gauthier:
+**Gauthier**:
 - Literature review
 - Readme
 - Ponctuation analysis function
 
-Maxime-Lucie:
+**Maxime-Lucie**:
 - Google AutoML: NLP and regression
 - Amazon Notebook: EDA, preprocessing, models (single and combined) and analysis of the models
 
