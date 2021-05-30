@@ -27,6 +27,8 @@
 - **Milestone 2** (due April 13) - Creating/Evaluating the model
 - **Milestone 3** (due May 10) - Iterate & Improve 
 
+### Milestone 1 - Reading/Thinking & Gathering the Data
+
 ### 📚 Review of the Existing Literature
 
 🥨 **Learning German** 
@@ -74,8 +76,7 @@
 - French specific libraries
 - And more 😉
 
-
-### Milestone 2 - Creating/Evaluating the model
+### Milestone 2 - Creating/Evaluating the Model
 
 `Dataset used: Team Amazon dataset`
 
