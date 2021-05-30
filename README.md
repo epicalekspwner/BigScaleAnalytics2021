@@ -25,7 +25,23 @@
 
 - **Milestone 1** (due March 15) - Reading/Thinking & Gathering the data 
 - **Milestone 2** (due April 13) - Creating/Evaluating the model
-- **Milestone 3** (due May 10) - Iterate & Improve 
+- **Milestone 3** (due May 10) - Iterate & Improve
+
+### ✔️ Final Application
+
+**Home Page**
+
+- Eye-catcher
+- Input field for the sentence to be analysed (processed when "Predict" is clicked or deleted when "Reset" is clicked)
+- Brief presentation of the project
+- Direct link to our team's Github repo 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_1.png" />
+</p>
+
+
+
 
 ### Milestone 1 - Reading/Thinking & Gathering the Data
 
