@@ -129,13 +129,16 @@ We can see on the above graph that the more complex a sentence is, the more dece
 **Screenshots of the prototype**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/old_1.png" />
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_old.png" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/old_2.png" />
+<p align="justify">
+The interface was fully coded in HTML and consisted of a simple input box which allowed to analysis the sentence provided by the user. 
 </p>
 
+<p align="justify">
+The application was coded considering only the case where the user would actually enter a sentence and the case where the user would click on "predict" without any input would systematically return an error.
+</p>
 
 <p align="justify"> 
 For this version, we used the datatset provided by the TAs to do the models, whereas in Milestone 2 we used our dataset which was biased. 
