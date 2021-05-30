@@ -67,7 +67,7 @@
 - Invite the user to try to perform the analysis again later as he cannot do more at the moment
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_4.png" />
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_owo.png" />
 </p>
 
 
