@@ -40,7 +40,17 @@
   <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_1.png" />
 </p>
 
+**Result Page**
 
+- Input sentence and its translation
+- Predicted level of difficulty with its corresponding probability
+- Prediction matrix containing the remaining levels and their respective probabilities
+- Explaination of the different levels
+- Dependency parse visualizer 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_2.png" />
+</p>
 
 
 ### Milestone 1 - Reading/Thinking & Gathering the Data
