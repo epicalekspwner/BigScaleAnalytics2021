@@ -30,9 +30,9 @@
 
 ### 🧠🧠 Application link
 
-![click-here](https://epicalekspwner-bsa2021.uc.r.appspot.com/)
+https://epicalekspwner-bsa2021.uc.r.appspot.com/
 
-![image](https://user-images.githubusercontent.com/71261918/120111350-e4431980-c171-11eb-8294-04fb646e485a.png)
+![image](https://user-images.githubusercontent.com/71261918/120111427-35eba400-c172-11eb-816a-09df4ecc6f71.png)
 
 
 ### 📚 Review of the Existing Literature
