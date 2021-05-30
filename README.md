@@ -52,6 +52,15 @@
   <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_2.png" />
 </p>
 
+**Inexistant Input Error Page**
+
+- Warning to inform the user that the analysis could not be performed because no sentence was entered in the field provided
+- Input field to continue without having to return to the home page to be able to enter a sentence 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_3.png" />
+</p>
+
 
 ### Milestone 1 - Reading/Thinking & Gathering the Data
 
