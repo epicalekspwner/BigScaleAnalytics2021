@@ -75,6 +75,13 @@
 - French specific libraries
 - And more 😉
 
+
+
+<p align="center">
+---------------------------------------------------------------------------------------------------------------------------------
+</p>
+
+
 ### 🤘 First iteration: Creating/Evaluating the Model
 
 `Dataset used: Team Amazon dataset`
@@ -116,6 +123,12 @@
 </p>
 
 We can see on the above graph that the more complex a sentence is, the more deceptive cognates (aka false friends) there are.
+
+
+<p align="center">
+---------------------------------------------------------------------------------------------------------------------------------
+</p>
+
 
 ### 🤘🤘 Second iteration: Iterate & Improve
 
@@ -208,15 +221,18 @@ We also took into account false friends and created a function that count the nu
 | **`GC (1) + RA (3)`**  |param: `None`|`None`|Accuracy: 44%|`None`|`None`|
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/71261918/120109708-df2e9c00-c16a-11eb-913b-f35b2b577f07.png)
- </p>
- 
- 
- <p align="center">
-![image](https://user-images.githubusercontent.com/71261918/120109715-e48be680-c16a-11eb-8930-0db37173eac1.png)
+<img src ="https://user-images.githubusercontent.com/71261918/120109708-df2e9c00-c16a-11eb-913b-f35b2b577f07.png"/>
 </p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71261918/120109715-e48be680-c16a-11eb-8930-0db37173eac1.png"/>
+</p>
+
+
+<p align="center">
+---------------------------------------------------------------------------------------------------------------------------------
+</p>
 
 ### ✔️ Final Application
 
