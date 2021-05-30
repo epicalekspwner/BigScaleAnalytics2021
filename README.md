@@ -163,7 +163,7 @@ The interface was fully coded in HTML and consisted of a simple input box which 
 </p>
 
 <p align="justify">
-The application was coded considering only the case where the user would actually enter a sentence and the case where the user would click on "predict" without any input would systematically return an error.
+The application was coded considering only the case where the user would actually enter a sentence and the case where the user would click on "predict" without any input would systematically return an error. If there was actually an input, the application would return a extremely simple response on a second HTML page.
 </p>
 
 **Some Changes From Milestone 2**
