@@ -126,7 +126,16 @@ We can see on the above graph that the more complex a sentence is, the more dece
  <img src="https://user-images.githubusercontent.com/71261918/117670351-17fcd600-b1a8-11eb-9602-d74bc92eb7ff.gif" />
 </p>
 
-**Our application**: [!!!!!! Click-here !!!!!!](https://epicalekspwner-bsa2021.uc.r.appspot.com/)
+**Screenshots of the prototype**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/old_1.png" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/old_2.png" />
+</p>
+
 
 <p align="justify"> 
 For this version, we used the datatset provided by the TAs to do the models, whereas in Milestone 2 we used our dataset which was biased. 
@@ -192,6 +201,8 @@ We also took into account false friends and created a function that count the nu
 **Algo Combination** 
 | **`GC (1) + GC (2)`**  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|`None`||
 | **`GC (1) + RA (3)`**  |param: `None`|`None`|Accuracy: 44%|`None`||
+
+
 
 ### Team work repartition
 
