@@ -126,7 +126,7 @@ We can see on the above graph that the more complex a sentence is, the more dece
  <img src="https://user-images.githubusercontent.com/71261918/117670351-17fcd600-b1a8-11eb-9602-d74bc92eb7ff.gif" />
 </p>
 
-**Screenshots of the prototype**
+**Screenshots of the Prototype**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_old.png" />
@@ -140,6 +140,8 @@ The interface was fully coded in HTML and consisted of a simple input box which 
 The application was coded considering only the case where the user would actually enter a sentence and the case where the user would click on "predict" without any input would systematically return an error.
 </p>
 
+**Some Changes From Milestone 2**
+
 <p align="justify"> 
 For this version, we used the datatset provided by the TAs to do the models, whereas in Milestone 2 we used our dataset which was biased. 
 </p>
@@ -152,7 +154,7 @@ We used several models from basic one (linear regression) to more complex ones (
 - Cloud services: **Google AutoML** (Regression and NLP), **Google Colab**, **Google App Engine**
 - NLP Librairies: **Spacy** (Multi-langual package), **NLTK** (Multi-langual package), **Camembert** (French package)
 - Machine Learning librairies: **Scikit-Learn**
-- App: **Flask**
+- App: **Flask + Python**
 
 📐 **General Architecture**
 
