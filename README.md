@@ -23,9 +23,15 @@
   This project is <strong>iterative</strong> and will be conducted in <strong>multiple milestones</strong> that are due throughout the semester:
 </p>
 
-- **Milestone 1** (due March 15) - Reading/Thinking & Gathering the data 
-- **Milestone 2** (due April 13) - Creating/Evaluating the model
-- **Milestone 3** (due May 10) - Iterate & Improve
+### AIcrowd Final result
+
+![image](https://user-images.githubusercontent.com/71261918/120109334-464b5100-c169-11eb-93fa-e9b2d4bdce3f.png)
+
+
+<p align="justify">
+ The best model we got was the GC (1): AutoML Natural Language (param: `None`)
+</p>
+
 
 ### ✔️ Final Application
 
