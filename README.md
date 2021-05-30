@@ -70,8 +70,6 @@
   <img src="https://raw.githubusercontent.com/epicalekspwner/miscellaneous/main/screenshot_owo.png" />
 </p>
 
-### Endpoint
-
 
 ### Milestone 1 - Reading/Thinking & Gathering the Data
 
@@ -226,34 +224,32 @@ We also took into account false friends and created a function that count the nu
 | **Model**                   | **Parameters**                                                      |**Internal Accuracy/R² or Google Cloud Precision/Recall/R²**|  **Accuracy Aicrowd submission**|**Evaluation**|**Note**|
 |----------------------------------------------------------|-------------------------------------------------------------------------------|------------------------|------------|-----------------|---------|
 **Regression Algo (RA) 📈 📉**   
-| **`Linear regression (1)`**  |param: `None`|R²: 0.31|`None`|`None`|bLABLAH|
-| **`Logistic regression (2)`**    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.37|`None`|`None`|bLABLAH|             
-| **`Support vector machine Regression (3)`** |param: StandardScaler(), SVR(C=5, epsilon=0.8), round()|R²: 0.46|Accuracy: 0.49|`None`|bLABLAH|
+| **`Linear regression (1)`**  |param: `None`|R²: 0.31|`None`|`None`|`None`|
+| **`Logistic regression (2)`**    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.37|`None`|`None`|`None`|             
+| **`Support vector machine Regression (3)`** |param: StandardScaler(), SVR(C=5, epsilon=0.8), round()|R²: 0.46|Accuracy: 0.49|`None`|Good model|
 |||||||
 **Regression Algo Camembert package (RACAM) 📈 📉 🧀**   
-| **`Linear regression (1)`**  |param: `None`|R²: 0.36|`None`|`None`|bLABLAH|
-| **`Logistic regression (2)`**    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.41|`None`|  `None`|bLABLAH|           
-| **`Support vector machine Regression (3)`** |param: StandardScaler(), SVR(C=1, epsilon=1), round()|R²: 0.54|`None`|`None`|bLABLAH|
+| **`Linear regression (1)`**  |param: `None`|R²: 0.36|`None`|`None`|`None`|
+| **`Logistic regression (2)`**    |param: standardization, penalty = 'l2',solver='lbfgs', cv=8, max_iter=3000, random_state=72|R²: 0.41|`None`|  `None`|`None`|           
+| **`Support vector machine Regression (3)`** |param: StandardScaler(), SVR(C=1, epsilon=1), round()|R²: 0.54|`None`|`None`|We can see that the french package Camembert is increasing the R². As the POS_tag is more precised it gives more details and so the results are better|
 |||||||
 **Classification Algo 📁📂(CA)**        
-| **`Support vector classifier (1)`**  |param: C=6|F1: 41%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943463-5dd0e100-bf93-11eb-9d06-b278cb46eb40.png)|bLABLAH|
-| **`Support vector classifier Camembert (1.2)`**  |param: C=3|F1: 45%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943653-9cff3200-bf93-11eb-9214-45b9a0b23c56.png)|bLABLAH|
-| **`Logistic Regression (2)`**  |param: 'LR__C': 6, 'LR__max_iter': 1000 |F1: 39%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943715-b1dbc580-bf93-11eb-83c7-c9dfa600d3d0.png)|bLABLAH|
-| **`KNNeighbours (3)`**  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 17, 'knn__p': 1, 'knn__weights': 'uniform' |F1: 38%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943752-bbfdc400-bf93-11eb-8fba-0f16ea7ce4f7.png)|bLABLAH|
-| **`Decision Trees (4)`** |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |F1: 33%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943773-c4ee9580-bf93-11eb-9c6f-253fba7dea2b.png)|bLABLAH|
-| **`Random Forest (5)`** |param: 'RF__bootstrap': True, 'RF__criterion': 'entropy', 'RF__n_estimators': 18|F1: 45%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943791-cddf6700-bf93-11eb-8acd-453115e39a29.png)|bLABLAH|
+| **`Support vector classifier (1)`**  |param: C=6|F1: 41%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943463-5dd0e100-bf93-11eb-9d06-b278cb46eb40.png)|`None`|
+| **`Support vector classifier Camembert (1.2)`**  |param: C=3|F1: 45%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943653-9cff3200-bf93-11eb-9214-45b9a0b23c56.png)|`None`|
+| **`Logistic Regression (2)`**  |param: 'LR__C': 6, 'LR__max_iter': 1000 |F1: 39%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943715-b1dbc580-bf93-11eb-83c7-c9dfa600d3d0.png)|`None`|
+| **`KNNeighbours (3)`**  |param: 'knn__leaf_size': 10, 'knn__n_neighbors': 17, 'knn__p': 1, 'knn__weights': 'uniform' |F1: 38%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943752-bbfdc400-bf93-11eb-8fba-0f16ea7ce4f7.png)|`None`|
+| **`Decision Trees (4)`** |param: 'DT__max_depth': 3, 'DT__min_samples_split': 5 |F1: 33%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943773-c4ee9580-bf93-11eb-9c6f-253fba7dea2b.png)|`None`|
+| **`Random Forest (5)`** |param: 'RF__bootstrap': True, 'RF__criterion': 'entropy', 'RF__n_estimators': 18|F1: 45%|`None`|![image](https://user-images.githubusercontent.com/71261918/119943791-cddf6700-bf93-11eb-8acd-453115e39a29.png)|`None`|
 ||||||
 **Google Cloud ⛅️(GC)** 
-| **`Classification problem (1)`**  |param: `None` |Precision: 58.51% & Recall: 35.41% & F1: 44%| Accuracy: **53.3%**|![image](https://user-images.githubusercontent.com/71261918/119943928-f4050700-bf93-11eb-9d57-6d096bd3234a.png)|bLABLAH|
-| **`Classification problem lemma(2)`**  |param:`None`|Precision: 60.94% & Recall: 29.96% & F1: 40%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944244-50682680-bf94-11eb-8135-759e2c1ce622.png)|bLABLAH|
-| **`Regression problem (3)`** |param: `None`|R²: 0.497|`None`|`None`|bLABLAH|
-| **`Classification problem (3)`**  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02% & F1: 51%| Accuracy: 51.1%|![image](https://user-images.githubusercontent.com/71261918/119944124-2e6ea400-bf94-11eb-83b6-c613fb14b760.png)|bLABLAH|
+| **`Classification problem (1)`**  |param: `None` |Precision: 58.51% & Recall: 35.41% & F1: 44%| Accuracy: **53.3%**|![image](https://user-images.githubusercontent.com/71261918/119943928-f4050700-bf93-11eb-9d57-6d096bd3234a.png)|Good at predicting A2 and B1, it is a good base to use for combined models|
+| **`Classification problem lemma(2)`**  |param:`None`|Precision: 60.94% & Recall: 29.96% & F1: 40%|`None`|![image](https://user-images.githubusercontent.com/71261918/119944244-50682680-bf94-11eb-8135-759e2c1ce622.png)|Good at predicting A1, B2 and C2 level. training the dataset on highly preprocessed sentences + lemmatized elements helped us to get better results at predicting these levels.|
+| **`Regression problem (3)`** |param: `None`|R²: 0.497|`None`|`None`|`None`|
+| **`Classification problem (3)`**  |param: dataset sentence length reduced |Precision: 61.6% & Recall: 43.02% & F1: 51%| Accuracy: 51.1%|![image](https://user-images.githubusercontent.com/71261918/119944124-2e6ea400-bf94-11eb-83b6-c613fb14b760.png)|Reduced length sentences + ponctuations in order to get a model less biaised by the length. The results are not as good as expected.|
 |||||||
 **Algo Combination** 
-| **`GC (1) + GC (2)`**  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|`None`||
-| **`GC (1) + RA (3)`**  |param: `None`|`None`|Accuracy: 44%|`None`||
-
-
+| **`GC (1) + GC (2)`**  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|`None`|Not as good as expected. Maybe we should have used the probabilities given in order to combined the two models because here we only based the combination on the confusion matrix results.|
+| **`GC (1) + RA (3)`**  |param: `None`|`None`|Accuracy: 44%|`None`|`None`|
 
 ### Team work repartition
 
