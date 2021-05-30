@@ -192,6 +192,20 @@ We also took into account false friends and created a function that count the nu
 | **`GC (1) + GC (2)`**  |param: (1): A2,B1,C1 & (2): A1,B2,C2|`None`|Accuracy:  51.5% (base (2)) & 52.8% (base (1))|`None`||
 | **`GC (1) + RA (3)`**  |param: `None`|`None`|Accuracy: 44%|`None`||
 
+### Team work repartition
+
+Aleksandar:
+- Application (flask, UI, etc)
+- Google App engine
+
+Gauthier:
+- Literature review
+- Readme
+- Ponctuation analysis function
+
+Maxime-Lucie:
+- Google AutoML: NLP and regression
+- Amazon Notebook: EDA, preprocessing, models (single and combined) and analysis of the models
 
 ### 🗄️ Sources
 
