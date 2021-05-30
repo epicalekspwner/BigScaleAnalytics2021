@@ -65,10 +65,10 @@
 
 🤖 **Potential Algorithms**
 
-- **Logistic Regression**
-- **Naive Bayes Classifier**
-- **K-nearest Neighbors**
-- **Decision Tree**
+- Logistic Regression
+- Naive Bayes Classifier
+- K-nearest Neighbors
+- Decision Tree
 
 📦 **Libraries We Intend to Use**
 - NLTK Snowball (Stemmer)
